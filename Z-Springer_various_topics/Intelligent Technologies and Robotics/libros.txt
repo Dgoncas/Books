@@ -1,0 +1,122 @@
+Book Title : Optimization of Process Flowsheets through Metaheuristic Techniques 
+Author : José María Ponce-Ortega, Luis Germán Hernández-Pérez
+Edition : 1st ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-91721-4
+Electronic ISBN : 978-3-319-91722-1
+Language : EN
+Language Collection : English/International
+eBook Package : 42732
+English Package Name : Intelligent Technologies and Robotics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-91722-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-91722-1
+Subject Classification : Engineering; Computational Intelligence; Industrial Chemistry/Chemical Engineering
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Robotics
+Book Title : Stability and Control of Linear Systems
+Author : Andrea Bacciotti
+Edition : 1st ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-02404-8
+Electronic ISBN : 978-3-030-02405-5
+Language : EN
+Language Collection : English/International
+eBook Package : 42732
+English Package Name : Intelligent Technologies and Robotics
+German Package Name : 
+Series Print ISSN : 2198-4182
+Series Electronic ISSN : 2198-4190
+Series Title : Studies in Systems, Decision and Control
+Volume Number : 185
+DOI URL : http://doi.org/10.1007/978-3-030-02405-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-02405-5
+Subject Classification : Engineering; Control; Systems Theory, Control; Ordinary Differential Equations; Engineering Mathematics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Control Engineering
+Book Title : Control Engineering: MATLAB Exercises
+Book Title : Automatic Control with Experiments
+Author : Victor Manuel Hernández-Guzmán, Ramón Silva-Ortigoza
+Edition : 1st ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-75803-9
+Electronic ISBN : 978-3-319-75804-6
+Language : EN
+Language Collection : English/International
+eBook Package : 42732
+English Package Name : Intelligent Technologies and Robotics
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-75804-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-75804-6
+Subject Classification : Engineering; Control; Systems Theory, Control; Power Electronics, Electrical Machines and Networks; Industrial and Production Engineering
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Multimedia Big Data Computing for IoT Applications
+Author : Sudeep Tanwar, Sudhanshu Tyagi, Neeraj Kumar
+Edition : 1st ed. 2020
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2020.0
+Copyright Holder : Springer Nature Singapore Pte Ltd.
+Print ISBN : 978-981-13-8758-6
+Electronic ISBN : 978-981-13-8759-3
+Language : EN
+Language Collection : English/International
+eBook Package : 42732
+English Package Name : Intelligent Technologies and Robotics
+German Package Name : 
+Series Print ISSN : 1868-4394
+Series Electronic ISSN : 1868-4408
+Series Title : Intelligent Systems Reference Library
+Volume Number : 163
+DOI URL : http://doi.org/10.1007/978-981-13-8759-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-981-13-8759-3
+Subject Classification : Engineering; Computational Intelligence; Big Data; Multimedia Information Systems; Information Systems Applications (incl.Internet)
+Publisher : Springer Singapore
+Imprint : Springer
+
