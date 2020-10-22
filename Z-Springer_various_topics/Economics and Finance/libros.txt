@@ -1,0 +1,115 @@
+Book Title : System Dynamics
+Author : Bilash Kanti Bala, Fatimah Mohamed Arshad, Kusairi Mohd Noh
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer Science+Business Media Singapore
+Print ISBN : 978-981-10-2043-8
+Electronic ISBN : 978-981-10-2045-2
+Language : EN
+Language Collection : English/International
+eBook Package : 41170
+English Package Name : Economics and Finance
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-981-10-2045-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-981-10-2045-2
+Subject Classification : Economics; Agricultural Economics; Mathematical Modeling and Industrial Mathematics; Mathematical and Computational Engineering; Industrial Organization
+Publisher : Springer Singapore
+Imprint : Springer
+
+Book Title : Principles of Microeconomics
+Author : Martin Kolmar
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-57588-9
+Electronic ISBN : 978-3-319-57589-6
+Language : EN
+Language Collection : English/International
+eBook Package : 41170
+English Package Name : Economics and Finance
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-57589-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-57589-6
+Subject Classification : Economics; Microeconomics; Behavioral/Experimental Economics; History of Economic Thought/Methodology; Game Theory; Institutional/Evolutionary Economics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Time Series Econometrics
+Author : Klaus Neusser
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-32861-4
+Electronic ISBN : 978-3-319-32862-1
+Language : EN
+Language Collection : English/International
+eBook Package : 41170
+English Package Name : Economics and Finance
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-32862-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-32862-1
+Subject Classification : Economics; Econometrics; Macroeconomics/Monetary Economics//Financial Economics; Statistics for Business/Economics/Mathematical Finance/Insurance
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Stochastic Processes and Calculus
+Author : Uwe Hassler
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-23427-4
+Electronic ISBN : 978-3-319-23428-1
+Language : EN
+Language Collection : English/International
+eBook Package : 41170
+English Package Name : Economics and Finance
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-23428-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-23428-1
+Subject Classification : Economics; Economic Theory/Quantitative Economics/Mathematical Methods; Statistics for Business/Economics/Mathematical Finance/Insurance; Quantitative Finance; Macroeconomics/Monetary Economics//Financial Economics; Econometrics; Game Theory, Economics, Social and Behav. Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Economics as Applied Ethics
+Author : Wilfred Beckerman
+Edition : 2nd ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : The Editor(s) (if applicable) and The Author(s)
+Print ISBN : 978-3-319-50318-9
+Electronic ISBN : 978-3-319-50319-6
+Language : EN
+Language Collection : English/International
+eBook Package : 41170
+English Package Name : Economics and Finance
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-50319-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-50319-6
+Subject Classification : Economics; Social Choice/Welfare Economics/Public Choice; Economic Theory/Quantitative Economics/Mathematical Methods; Public Economics; International Political Economy
+Publisher : Springer International Publishing
+Imprint : Palgrave Macmillan
+
