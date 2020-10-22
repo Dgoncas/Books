@@ -1,0 +1,161 @@
+Book Title : Evidence-Based Critical Care
+Author : Robert C. Hyzy
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-43339-4
+Electronic ISBN : 978-3-319-43341-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11650
+English Package Name : Medicine
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-43341-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-43341-7
+Subject Classification : Medicine & Public Health; Intensive / Critical Care Medicine
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Biomedical Informatics
+Author : Edward H. Shortliffe, James J. Cimino
+Edition : 4th ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-4471-4473-1
+Electronic ISBN : 978-1-4471-4474-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11650
+English Package Name : Medicine
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-4474-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-4474-8
+Subject Classification : Medicine & Public Health; Health Informatics; Biomedicine, general
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Cardiovascular Biomechanics
+Author : Peter R. Hoskins, Patricia V. Lawford, Barry J. Doyle
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-46405-3
+Electronic ISBN : 978-3-319-46407-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11650
+English Package Name : Medicine
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-46407-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-46407-7
+Subject Classification : Medicine & Public Health; Cardiology; Biomedical Engineering; Medical and Radiation Physics; Human Physiology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Evolutionary Thinking in Medicine
+Author : Alexandra Alvergne, Crispin Jenkinson, Charlotte Faurie
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-29714-9
+Electronic ISBN : 978-3-319-29716-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11650
+English Package Name : Medicine
+German Package Name : 
+Series Print ISSN : 2625-2597
+Series Electronic ISSN : 2625-2600
+Series Title : Advances in the Evolutionary Analysis of Human Behaviour
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-29716-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-29716-3
+Subject Classification : Medicine & Public Health; Medicine/Public Health, general; Health Psychology; Anthropology; Evolutionary Biology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : The ASCRS Textbook of Colon and Rectal Surgery
+Author : Scott R. Steele, Tracy L. Hull, Thomas E. Read, Theodore J. Saclarides, Anthony J. Senagore, Charles B. Whitlow
+Edition : 3rd ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : ASCRS (American Society of Colon and Rectal Surgeons)
+Print ISBN : 978-3-319-25968-0
+Electronic ISBN : 978-3-319-25970-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11650
+English Package Name : Medicine
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-25970-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-25970-3
+Subject Classification : Medicine & Public Health; Colorectal Surgery; General Surgery; Surgical Oncology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Breast Cancer
+Author : Umberto Veronesi, Aron Goldhirsch, Paolo Veronesi, Oreste Davide Gentilini, Maria Cristina Leonardi
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-48846-2
+Electronic ISBN : 978-3-319-48848-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11650
+English Package Name : Medicine
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-48848-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-48848-6
+Subject Classification : Medicine & Public Health; Oncology; Imaging / Radiology; Surgery; Pathology; Human Genetics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Spine Surgery
+Author : Bernhard Meyer, Michael Rauschmann
+Edition : 1st ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-98874-0
+Electronic ISBN : 978-3-319-98875-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11650
+English Package Name : Medicine
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-98875-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-98875-7
+Subject Classification : Medicine & Public Health; Neurosurgery; Surgical Orthopedics
+Publisher : Springer International Publishing
+Imprint : Springer
+
