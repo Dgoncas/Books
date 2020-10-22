@@ -1,0 +1,230 @@
+Book Title : Electrical Machines
+Author : Slobodan N. Vukosavic
+Edition : 2012
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-0399-9
+Electronic ISBN : 978-1-4614-0400-2
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 2196-3185
+Series Electronic ISSN : 2196-3193
+Series Title : Power Electronics and Power Systems
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-0400-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-0400-2
+Subject Classification : Energy; Energy Systems; Power Electronics, Electrical Machines and Networks; Machinery and Machine Elements; Mechatronics; Industrial and Production Engineering
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Energy Storage
+Author : Robert Huggins
+Edition : 2nd ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-21238-8
+Electronic ISBN : 978-3-319-21239-5
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-21239-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-21239-5
+Subject Classification : Energy; Energy Storage; Optical and Electronic Materials; Renewable and Green Energy; Electrochemistry
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Reactive Power Control in AC Power Systems
+Author : Naser Mahdavi Tabatabaei, Ali Jafari Aghbolaghi, Nicu Bizon, Frede Blaabjerg
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-51117-7
+Electronic ISBN : 978-3-319-51118-4
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 1612-1287
+Series Electronic ISSN : 1860-4676
+Series Title : Power Systems
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-51118-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-51118-4
+Subject Classification : Engineering; Power Electronics, Electrical Machines and Networks; Energy Systems; Control
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Energy Economics
+Author : Peter Zweifel, Aaron Praktiknjo, Georg Erdmann
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-662-53020-7
+Electronic ISBN : 978-3-662-53022-1
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-53022-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-53022-1
+Subject Classification : Energy; Energy Policy, Economics and Management; Environmental Economics; Political Economy/Economic Policy; Energy Policy, Economics and Management; Industrial Organization
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Solar PV and Wind Energy Conversion Systems
+Author : S. Sumathi, L. Ashok Kumar, P. Surekha
+Edition : 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-14940-0
+Electronic ISBN : 978-3-319-14941-7
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 1865-3529
+Series Electronic ISSN : 1865-3537
+Series Title : Green Energy and Technology
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-14941-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-14941-7
+Subject Classification : Energy; Renewable and Green Energy; Energy Systems; Power Electronics, Electrical Machines and Networks; Energy Efficiency; Energy Harvesting
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Air Pollution and Greenhouse Gases
+Author : Zhongchao Tan
+Edition : 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media Singapore
+Print ISBN : 978-981-287-211-1
+Electronic ISBN : 978-981-287-212-8
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 1865-3529
+Series Electronic ISSN : 1865-3537
+Series Title : Green Energy and Technology
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-981-287-212-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-981-287-212-8
+Subject Classification : Engineering; Quality Control, Reliability, Safety and Risk; Atmospheric Protection/Air Quality Control/Air Pollution; Environmental Engineering/Biotechnology
+Publisher : Springer Singapore
+Imprint : Springer
+
+Book Title : Energy Harvesting and Energy Efficiency
+Author : Nicu Bizon, Naser Mahdavi Tabatabaei, Frede Blaabjerg, Erol Kurt
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-49874-4
+Electronic ISBN : 978-3-319-49875-1
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 2195-1284
+Series Electronic ISSN : 2195-1292
+Series Title : Lecture Notes in Energy
+Volume Number : 37
+DOI URL : http://doi.org/10.1007/978-3-319-49875-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-49875-1
+Subject Classification : Energy; Energy Harvesting; Nanotechnology and Microengineering; Renewable and Green Energy; Engineering Thermodynamics, Heat and Mass Transfer
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Energy and the Wealth of Nations
+Author : Charles A.S. Hall, Kent Klitgaard
+Edition : 2nd ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-66217-6
+Electronic ISBN : 978-3-319-66219-0
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-66219-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-66219-0
+Subject Classification : Energy; Energy Policy, Economics and Management; Sustainable Development; Environmental Economics; Energy Policy, Economics and Management; Data-driven Science, Modeling and Theory Building; Economic Geography
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Building Energy Modeling with OpenStudio
+Author : Larry Brackney, Andrew Parker, Daniel Macumber, Kyle Benne
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-77808-2
+Electronic ISBN : 978-3-319-77809-9
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-77809-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-77809-9
+Subject Classification : Energy; Sustainable Architecture/Green Buildings; Mechanical Engineering; Energy Efficiency; Building Physics, HVAC; Building Construction and Design
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Off-Grid Electrical Systems in Developing Countries
+Author : Henry Louie
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-91889-1
+Electronic ISBN : 978-3-319-91890-7
+Language : EN
+Language Collection : English/International
+eBook Package : 40367
+English Package Name : Energy
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-91890-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-91890-7
+Subject Classification : Energy; Renewable and Green Energy; Energy Systems; Energy Policy, Economics and Management; Development and Sustainability
+Publisher : Springer International Publishing
+Imprint : Springer
+
