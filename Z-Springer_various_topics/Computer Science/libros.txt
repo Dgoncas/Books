@@ -1,0 +1,1013 @@
+Book Title : Introduction to Evolutionary Computing
+Author : A.E. Eiben, J.E. Smith
+Edition : 2nd ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-662-44873-1
+Electronic ISBN : 978-3-662-44874-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1619-7127
+Series Electronic ISSN : 
+Series Title : Natural Computing Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-44874-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8
+Subject Classification : Computer Science; Computational Intelligence; Theory of Computation; Robotics and Automation; Optimization
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Data Structures and Algorithms with Python
+Author : Kent D. Lee, Steve Hubbard
+Edition : 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-13071-2
+Electronic ISBN : 978-3-319-13072-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-13072-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9
+Subject Classification : Computer Science; Data Structures; Python; Algorithm Analysis and Problem Complexity; Programming Techniques
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : LaTeX in 24 Hours
+Author : Dilip Datta
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-47830-2
+Electronic ISBN : 978-3-319-47831-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-47831-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-47831-9
+Subject Classification : Popular Science; Popular Computer Science; Programming Techniques
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Automata and Computability
+Author : Dexter C. Kozen
+Edition : 1997
+Product Type : Undergraduate textbook
+Copyright Year : 1997.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-0-387-94907-9
+Electronic ISBN : 978-1-4612-1844-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : Undergraduate Texts in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4612-1844-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4612-1844-9
+Subject Classification : Computer Science; Computation by Abstract Devices; Algorithm Analysis and Problem Complexity
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : The Algorithm Design Manual
+Author : Steven S Skiena
+Edition : 2nd ed. 2008
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2008.0
+Copyright Holder : Springer-Verlag London Limited
+Print ISBN : 978-1-84800-069-8
+Electronic ISBN : 978-1-84800-070-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84800-070-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84800-070-4
+Subject Classification : Computer Science; Software Engineering/Programming and Operating Systems; Programming Techniques; Algorithm Analysis and Problem Complexity; Theory of Computation; Algorithms; Discrete Mathematics in Computer Science
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Principles of Data Mining
+Author : Max Bramer
+Edition : 3rd ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer-Verlag London Ltd.
+Print ISBN : 978-1-4471-7306-9
+Electronic ISBN : 978-1-4471-7307-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-7307-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-7307-6
+Subject Classification : Computer Science; Information Storage and Retrieval; Database Management; Programming Techniques
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Fundamentals of Business Process Management
+Author : Marlon Dumas, Marcello La Rosa, Jan Mendling, Hajo A. Reijers
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-33142-8
+Electronic ISBN : 978-3-642-33143-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-33143-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-33143-5
+Subject Classification : Computer Science; Computer Appl. in Administrative Data Processing; Business Process Management; Information Systems Applications (incl.Internet); Software Engineering
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : UML @ Classroom
+Author : Martina Seidl, Marion Scholz, Christian Huemer, Gerti Kappel
+Edition : 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-12741-5
+Electronic ISBN : 978-3-319-12742-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-12742-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-12742-2
+Subject Classification : Computer Science; Software Engineering; Management of Computing and Information Systems
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Foundations for Designing User-Centered Systems
+Author : Frank E. Ritter, Gordon D. Baxter, Elizabeth F. Churchill
+Edition : 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-4471-5133-3
+Electronic ISBN : 978-1-4471-5134-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-5134-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-5134-0
+Subject Classification : Computer Science; User Interfaces and Human Computer Interaction; Software Engineering
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Computer Vision
+Author : Richard Szeliski
+Edition : 2011
+Product Type : Undergraduate textbook
+Copyright Year : 2011.0
+Copyright Holder : Springer-Verlag London Limited
+Print ISBN : 978-1-84882-934-3
+Electronic ISBN : 978-1-84882-935-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1868-0941
+Series Electronic ISSN : 1868-095X
+Series Title : Texts in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84882-935-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0
+Subject Classification : Computer Science; Image Processing and Computer Vision
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Data Mining
+Author : Charu C. Aggarwal
+Edition : 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-14141-1
+Electronic ISBN : 978-3-319-14142-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-14142-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-14142-8
+Subject Classification : Computer Science; Data Mining and Knowledge Discovery; Pattern Recognition
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Computational Geometry
+Author : Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars
+Edition : 3rd ed. 2008
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2008.0
+Copyright Holder : Springer-Verlag GmbH Germany, part of Springer Nature
+Print ISBN : 978-3-540-77973-5
+Electronic ISBN : 978-3-540-77974-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-540-77974-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-540-77974-2
+Subject Classification : Computer Science; Theory of Computation; Geometry; Math Applications in Computer Science; Earth Sciences, general; Computer Graphics; Algorithm Analysis and Problem Complexity
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Cryptography Made Simple
+Author : Nigel Smart
+Edition : 1st ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-21935-6
+Electronic ISBN : 978-3-319-21936-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1619-7100
+Series Electronic ISSN : 2197-845X
+Series Title : Information Security and Cryptography
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-21936-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-21936-3
+Subject Classification : Computer Science; Data Structures, Cryptology and Information Theory; Mathematics of Computing; Security Science and Technology; Discrete Mathematics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Eye Tracking Methodology
+Author : Andrew T. Duchowski
+Edition : 3rd ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-57881-1
+Electronic ISBN : 978-3-319-57883-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-57883-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-57883-5
+Subject Classification : Computer Science; User Interfaces and Human Computer Interaction; Computer Graphics; Special Purpose and Application-Based Systems; Computer Appl. in Social and Behavioral Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : The Data Science Design Manual
+Author : Steven S. Skiena
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : The Author(s)
+Print ISBN : 978-3-319-55443-3
+Electronic ISBN : 978-3-319-55444-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1868-0941
+Series Electronic ISSN : 1868-095X
+Series Title : Texts in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-55444-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-55444-0
+Subject Classification : Computer Science; Data Mining and Knowledge Discovery; Pattern Recognition; Big Data/Analytics; Visualization; Statistics and Computing/Statistics Programs
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : An Introduction to Machine Learning
+Author : Miroslav Kubat
+Edition : 2nd ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-63912-3
+Electronic ISBN : 978-3-319-63913-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-63913-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-63913-0
+Subject Classification : Computer Science; Data Mining and Knowledge Discovery; Big Data/Analytics; Computational Intelligence
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Guide to Discrete Mathematics
+Author : Gerard O'Regan
+Edition : 1st ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-44560-1
+Electronic ISBN : 978-3-319-44561-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1868-0941
+Series Electronic ISSN : 1868-095X
+Series Title : Texts in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-44561-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-44561-8
+Subject Classification : Computer Science; Discrete Mathematics in Computer Science; Arithmetic and Logic Structures; Logics and Meanings of Programs; History of Computing; Mathematical Applications in Computer Science; Math Applications in Computer Science
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Modelling Computing Systems
+Author : Faron Moller, Georg Struth
+Edition : 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84800-321-7
+Electronic ISBN : 978-1-84800-322-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84800-322-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84800-322-4
+Subject Classification : Computer Science; Logics and Meanings of Programs; Mathematical Logic and Formal Languages; Discrete Mathematics in Computer Science; Math Applications in Computer Science
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Understanding Cryptography
+Author : Christof Paar, Jan Pelzl
+Edition : 2010
+Product Type : Undergraduate textbook
+Copyright Year : 2010.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-04100-6
+Electronic ISBN : 978-3-642-04101-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-04101-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-04101-3
+Subject Classification : Computer Science; Data Structures, Cryptology and Information Theory; Programming Techniques; Communications Engineering, Networks; Circuits and Systems
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Concise Guide to Software Engineering
+Author : Gerard O'Regan
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-57749-4
+Electronic ISBN : 978-3-319-57750-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-57750-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-57750-0
+Subject Classification : Computer Science; Software Engineering; Computer Engineering; Software Management; Mathematical Software
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Fundamentals of Multimedia
+Author : Ze-Nian Li, Mark S. Drew, Jiangchuan Liu
+Edition : 2nd ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-05289-2
+Electronic ISBN : 978-3-319-05290-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1868-0941
+Series Electronic ISSN : 1868-095X
+Series Title : Texts in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-05290-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-05290-8
+Subject Classification : Computer Science; Image Processing and Computer Vision; Computer Communication Networks; Information Storage and Retrieval; Database Management
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : The Python Workbook
+Author : Ben Stephenson
+Edition : 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-14239-5
+Electronic ISBN : 978-3-319-14240-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-14240-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-14240-1
+Subject Classification : Computer Science; Programming Languages, Compilers, Interpreters; Python; Computational Intelligence
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Recommender Systems
+Author : Charu C. Aggarwal
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-29657-9
+Electronic ISBN : 978-3-319-29659-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-29659-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-29659-3
+Subject Classification : Computer Science; Data Mining and Knowledge Discovery
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Python Programming Fundamentals
+Author : Kent D. Lee
+Edition : 2nd ed. 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-4471-6641-2
+Electronic ISBN : 978-1-4471-6642-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-6642-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6642-9
+Subject Classification : Computer Science; Programming Languages, Compilers, Interpreters; Python
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Object-Oriented Analysis, Design and Implementation
+Author : Brahma Dathan, Sarnath Ramnath
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Universities Press (India) Private Ltd.
+Print ISBN : 978-3-319-24278-1
+Electronic ISBN : 978-3-319-24280-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-24280-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-24280-4
+Subject Classification : Computer Science; Programming Techniques
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Data Science
+Author : Laura Igual, Santi Seguí
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-50016-4
+Electronic ISBN : 978-3-319-50017-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-50017-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-50017-1
+Subject Classification : Computer Science; Data Mining and Knowledge Discovery; Probability and Statistics in Computer Science; Pattern Recognition; Statistics and Computing/Statistics Programs
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Concise Guide to Databases
+Author : Peter Lake, Paul Crowther
+Edition : 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-4471-5600-0
+Electronic ISBN : 978-1-4471-5601-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-5601-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-5601-7
+Subject Classification : Computer Science; Database Management; Information Storage and Retrieval; Data Structures, Cryptology and Information Theory; Software Engineering/Programming and Operating Systems
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Digital Image Processing
+Author : Wilhelm Burger, Mark J. Burge
+Edition : 2nd ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-4471-6683-2
+Electronic ISBN : 978-1-4471-6684-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1868-0941
+Series Electronic ISSN : 1868-095X
+Series Title : Texts in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-6684-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6684-9
+Subject Classification : Computer Science; Image Processing and Computer Vision; Signal, Image and Speech Processing; Computational Intelligence
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Guide to Computer Network Security
+Author : Joseph Migga Kizza
+Edition : 4th ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-55605-5
+Electronic ISBN : 978-3-319-55606-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1617-7975
+Series Electronic ISSN : 2197-8433
+Series Title : Computer Communications and Networks
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-55606-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-55606-2
+Subject Classification : Computer Science; Information Storage and Retrieval; Data Storage Representation; Management of Computing and Information Systems; Computer Communication Networks
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Foundations of Programming Languages
+Author : Kent D. Lee
+Edition : 2nd ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-70789-1
+Electronic ISBN : 978-3-319-70790-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-70790-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-70790-7
+Subject Classification : Computer Science; Programming Languages, Compilers, Interpreters; Control Structures and Microprogramming; Mathematical and Computational Engineering
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Probability and Statistics for Computer Science
+Author : David Forsyth
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-64409-7
+Electronic ISBN : 978-3-319-64410-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-64410-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-64410-3
+Subject Classification : Computer Science; Probability and Statistics in Computer Science; Statistics and Computing/Statistics Programs
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Guide to Competitive Programming
+Author : Antti Laaksonen
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-72546-8
+Electronic ISBN : 978-3-319-72547-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-72547-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-72547-5
+Subject Classification : Computer Science; Programming Techniques; Algorithm Analysis and Problem Complexity; Professional Computing; Algorithms; Computers and Education
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Artificial Intelligence
+Author : Wolfgang Ertel
+Edition : 2nd ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-58486-7
+Electronic ISBN : 978-3-319-58487-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-58487-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-58487-4
+Subject Classification : Computer Science
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Deep Learning
+Author : Sandro Skansi
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-73003-5
+Electronic ISBN : 978-3-319-73004-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-73004-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-73004-2
+Subject Classification : Computer Science; Pattern Recognition; Mathematical Models of Cognitive Processes and Neural Networks; Coding and Information Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : A Beginner's Guide to Scala, Object Orientation and Functional Programming
+Author : John Hunt
+Edition : 2nd ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-75770-4
+Electronic ISBN : 978-3-319-75771-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-75771-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-75771-1
+Subject Classification : Computer Science; Programming Techniques; Programming Languages, Compilers, Interpreters
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Guide to Scientific Computing in C++
+Author : Joe Pitt-Francis, Jonathan Whiteley
+Edition : 2nd ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-73131-5
+Electronic ISBN : 978-3-319-73132-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-73132-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-73132-2
+Subject Classification : Computer Science; Programming Techniques; Numeric Computing; Programming Languages, Compilers, Interpreters; Math Applications in Computer Science; Software Engineering
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Fundamentals of Java Programming
+Author : Mitsunori Ogihara
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-89490-4
+Electronic ISBN : 978-3-319-89491-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-89491-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-89491-1
+Subject Classification : Computer Science; Java; Programming Languages, Compilers, Interpreters; Programming Techniques
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Logical Foundations of Cyber-Physical Systems
+Author : André Platzer
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-63587-3
+Electronic ISBN : 978-3-319-63588-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-63588-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-63588-0
+Subject Classification : Computer Science; Mathematical Logic and Formal Languages; Mathematical Logic and Foundations; Control, Robotics, Mechatronics; Quality Control, Reliability, Safety and Risk
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Programming with Fortran
+Author : Ian Chivers, Jane Sleightholme
+Edition : 4th ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-75501-4
+Electronic ISBN : 978-3-319-75502-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-75502-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-75502-1
+Subject Classification : Computer Science; Programming Languages, Compilers, Interpreters; Programming Techniques; Software Engineering
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Neural Networks and Deep Learning
+Author : Charu C. Aggarwal
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-94462-3
+Electronic ISBN : 978-3-319-94463-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-94463-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-94463-0
+Subject Classification : Computer Science; Information Systems and Communication Service; Processor Architectures
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Systems Programming in Unix-Linux
+Author : K.C. Wang
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-92428-1
+Electronic ISBN : 978-3-319-92429-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-92429-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-92429-8
+Subject Classification : Computer Science; Programming Techniques; Programming Languages, Compilers, Interpreters; Data Structures; Operating Systems
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Parallel Computing
+Book Title : Analysis for Computer Scientists
+Author : Michael Oberguggenberger, Alexander Ostermann
+Edition : 2nd ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-91154-0
+Electronic ISBN : 978-3-319-91155-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-91155-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-91155-7
+Subject Classification : Computer Science; Math Applications in Computer Science; Computational Mathematics and Numerical Analysis; Mathematical and Computational Engineering; Discrete Mathematics in Computer Science
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introductory Computer Forensics
+Author : Xiaodong Lin
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-00580-1
+Electronic ISBN : 978-3-030-00581-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-00581-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-00581-8
+Subject Classification : Computer Science; Security; Forensic Science; Cybercrime; Multimedia Information Systems
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Advanced Guide to Python 3 Programming
+Author : John Hunt
+Edition : 1st ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-25942-6
+Electronic ISBN : 978-3-030-25943-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11645
+English Package Name : Computer Science
+German Package Name : 
+Series Print ISSN : 1863-7310
+Series Electronic ISSN : 2197-1781
+Series Title : Undergraduate Topics in Computer Science
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-25943-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-25943-3
+Subject Classification : Computer Science; Programming Languages, Compilers, Interpreters; Python; Database Management
+Publisher : Springer International Publishing
+Imprint : Springer
+
