@@ -1,0 +1,1357 @@
+Book Title : Fundamentals of Power Electronics
+Author : Robert W. Erickson, Dragan Maksimovic
+Edition : 2nd ed. 2001
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2001.0
+Copyright Holder : Springer Science+Business Media New York 
+Print ISBN : 978-0-7923-7270-7
+Electronic ISBN : 978-0-306-48048-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/b100747
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-306-48048-5
+Subject Classification : Engineering; Circuits and Systems; Energy, general; Electronics and Microelectronics, Instrumentation; Energy Systems
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Intuitive Probability and Random Processes using MATLAB®
+Author : Steven Kay
+Edition : 2006
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2006.0
+Copyright Holder : Springer-Verlag US
+Print ISBN : 978-0-387-24157-9
+Electronic ISBN : 978-0-387-24158-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/b104645
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-24158-6
+Subject Classification : Engineering; Communications Engineering, Networks; Mathematical Software; Mathematical and Computational Engineering; Signal, Image and Speech Processing; Probability Theory and Stochastic Processes; Fourier Analysis
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Fatigue of Structures and Materials
+Author : J. Schijve
+Edition : 2nd ed. 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer Science+Business Media B.V.
+Print ISBN : 978-1-4020-6807-2
+Electronic ISBN : 978-1-4020-6808-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4020-6808-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4020-6808-9
+Subject Classification : Engineering; Mechanical Engineering; Engineering Design; Structural Materials; Metallic Materials
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Fundamentals of Robotic Mechanical Systems
+Author : Jorge Angeles
+Edition : 4th ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer International Publishing Swizterland
+Print ISBN : 978-3-319-01850-8
+Electronic ISBN : 978-3-319-01851-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 0941-5122
+Series Electronic ISSN : 2192-063X
+Series Title : Mechanical Engineering Series
+Volume Number : 124
+DOI URL : http://doi.org/10.1007/978-3-319-01851-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-01851-5
+Subject Classification : Engineering; Mechanical Engineering; Robotics and Automation
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Logic Circuits & Logic Design with Verilog
+Author : Brock J. LaMeres
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-53882-2
+Electronic ISBN : 978-3-319-53883-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-53883-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-53883-9
+Subject Classification : Engineering; Circuits and Systems; Processor Architectures; Logic Design
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Structural Analysis
+Author : O. A. Bauchau, J.I. Craig
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer Science+Business Media B.V.
+Print ISBN : 978-90-481-2515-9
+Electronic ISBN : 978-90-481-2516-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 0925-0042
+Series Electronic ISSN : 2214-7764
+Series Title : Solid Mechanics and Its Applications
+Volume Number : 163
+DOI URL : http://doi.org/10.1007/978-90-481-2516-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-90-481-2516-6
+Subject Classification : Engineering; Mechanical Engineering; Astronomy, Astrophysics and Cosmology; Aerospace Technology and Astronautics; Theoretical and Applied Mechanics
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Additive Manufacturing Technologies
+Author : Ian Gibson, David W. Rosen, Brent Stucker
+Edition : 2010
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2010.0
+Copyright Holder : Springer Science+Business Media, LLC, part of Springer Nature
+Print ISBN : 978-1-4419-1119-3
+Electronic ISBN : 978-1-4419-1120-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4419-1120-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-1120-9
+Subject Classification : Engineering; Engineering Design; Industrial Chemistry/Chemical Engineering; Industrial and Production Engineering; Mechanical Engineering
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Engineering Electromagnetics
+Author : Nathan Ida
+Edition : 3rd ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-07805-2
+Electronic ISBN : 978-3-319-07806-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-07806-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-07806-9
+Subject Classification : Engineering; Signal, Image and Speech Processing; Information Systems and Communication Service; Communications Engineering, Networks
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Alternative Energy Sources
+Author : Efstathios E (Stathis) Michaelides
+Edition : 2012
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-20950-5
+Electronic ISBN : 978-3-642-20951-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1865-3529
+Series Electronic ISSN : 1865-3537
+Series Title : Green Energy and Technology
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-20951-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-20951-2
+Subject Classification : Energy; Renewable and Green Energy; Renewable and Green Energy; Sustainable Development; Energy Systems
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Engineering Mechanics 1
+Author : Dietmar Gross, Werner Hauger, Jörg Schröder, Wolfgang A. Wall, Nimal Rajapakse
+Edition : 2nd ed. 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag GmbH Germany, part of Springer Nature
+Print ISBN : 978-3-642-30318-0
+Electronic ISBN : 978-3-642-30319-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-30319-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-30319-7
+Subject Classification : Engineering; Mechanical Engineering; Civil Engineering; Electrical Engineering; Materials Science, general; Physics, general; Mathematics, general
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Thermodynamics and Energy Conversion
+Author : Henning Struchtrup
+Edition : 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-662-43714-8
+Electronic ISBN : 978-3-662-43715-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-43715-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-43715-5
+Subject Classification : Engineering; Engineering Thermodynamics, Heat and Mass Transfer; Thermodynamics; Industrial Chemistry/Chemical Engineering; Engineering Fluid Dynamics; Classical and Continuum Physics; Energy Systems
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Principles of Mobile Communication
+Author : Gordon L. Stüber
+Edition : 4th ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-55614-7
+Electronic ISBN : 978-3-319-55615-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-55615-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-55615-4
+Subject Classification : Engineering; Communications Engineering, Networks; Signal, Image and Speech Processing; Input/Output and Data Communications
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Physics of Semiconductor Devices
+Author : Massimo Rudan
+Edition : 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4939-1150-9
+Electronic ISBN : 978-1-4939-1151-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-1151-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-1151-6
+Subject Classification : Engineering; Circuits and Systems; Semiconductors; Electronics and Microelectronics, Instrumentation
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Life Cycle Assessment
+Author : Michael Z. Hauschild, Ralph K. Rosenbaum, Stig Irving Olsen
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-56474-6
+Electronic ISBN : 978-3-319-56475-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-56475-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-56475-3
+Subject Classification : Engineering; Sustainable Development; Renewable and Green Energy; Sustainability Management
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Fundamentals of Structural Engineering
+Author : Jerome J. Connor, Susan Faraji
+Edition : 2nd ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-24329-0
+Electronic ISBN : 978-3-319-24331-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-24331-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-24331-3
+Subject Classification : Engineering; Light Construction, Steel Construction, Timber Construction; Building Construction and Design; Solid Construction; Structural Materials
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Electronics for Embedded Systems
+Author : Ahmet Bindal
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-39437-4
+Electronic ISBN : 978-3-319-39439-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-39439-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-39439-8
+Subject Classification : Engineering; Circuits and Systems; Electronics and Microelectronics, Instrumentation
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Practical Electrical Engineering
+Author : Sergey N. Makarov, Reinhold Ludwig, Stephen J. Bitar
+Edition : 1st ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-21172-5
+Electronic ISBN : 978-3-319-21173-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-21173-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-21173-2
+Subject Classification : Engineering; Circuits and Systems; Electronics and Microelectronics, Instrumentation; Electronic Circuits and Devices
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : The Finite Element Method and Applications in Engineering Using ANSYS®
+Author : Erdogan Madenci, Ibrahim Guven
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing
+Print ISBN : 978-1-4899-7549-2
+Electronic ISBN : 978-1-4899-7550-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4899-7550-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4899-7550-8
+Subject Classification : Engineering; Mechanical Engineering; Mathematical and Computational Engineering; Computer-Aided Engineering (CAD, CAE) and Design; Computational Science and Engineering
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Introduction to Embedded Systems
+Author : Manuel Jiménez, Rogelio Palomera, Isidoro Couvertier
+Edition : 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-3142-8
+Electronic ISBN : 978-1-4614-3143-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-3143-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-3143-5
+Subject Classification : Engineering; Circuits and Systems; Processor Architectures; Electronics and Microelectronics, Instrumentation
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : The Finite Volume Method in Computational Fluid Dynamics
+Author : F. Moukalled, L. Mangani, M. Darwish
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-16873-9
+Electronic ISBN : 978-3-319-16874-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 0926-5112
+Series Electronic ISSN : 2215-0056
+Series Title : Fluid Mechanics and Its Applications
+Volume Number : 113
+DOI URL : http://doi.org/10.1007/978-3-319-16874-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-16874-6
+Subject Classification : Engineering; Engineering Fluid Dynamics; Computational Science and Engineering; Numerical and Computational Physics, Simulation; Fluid- and Aerodynamics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Logic Circuits & Logic Design with VHDL 
+Author : Brock J. LaMeres
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-34194-1
+Electronic ISBN : 978-3-319-34195-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-34195-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-34195-8
+Subject Classification : Engineering; Circuits and Systems; Processor Architectures; Logic Design
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Statics and Mechanics of Structures
+Author : Steen Krenk, Jan Høgsberg
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media Dordrecht
+Print ISBN : 978-94-007-6112-4
+Electronic ISBN : 978-94-007-6113-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-007-6113-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-007-6113-1
+Subject Classification : Engineering
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Engineering Mechanics 2
+Author : Dietmar Gross, Werner Hauger, Jörg Schröder, Wolfgang A. Wall, Javier Bonet
+Edition : 2nd ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer-Verlag GmbH Germany, part of Springer Nature
+Print ISBN : 978-3-662-56271-0
+Electronic ISBN : 978-3-662-56272-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-56272-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-56272-7
+Subject Classification : Engineering; Structural Materials; Mechanical Engineering
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Robotics
+Author : Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-84628-641-4
+Electronic ISBN : 978-1-84628-642-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 1439-2232
+Series Electronic ISSN : 2510-3814
+Series Title : Advanced Textbooks in Control and Signal Processing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-84628-642-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1
+Subject Classification : Engineering; Robotics and Automation; Control, Robotics, Mechatronics; Machinery and Machine Elements
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Fundamentals of Solid State Engineering
+Author : Manijeh Razeghi
+Edition : 4th ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-75707-0
+Electronic ISBN : 978-3-319-75708-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-75708-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-75708-7
+Subject Classification : Engineering; Electronics and Microelectronics, Instrumentation; Optical and Electronic Materials; Solid State Physics; Spectroscopy and Microscopy; Nanotechnology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Digital Systems Design
+Author : Giuliano Donzellini, Luca Oneto, Domenico Ponta, Davide Anguita
+Edition : 1st ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-92803-6
+Electronic ISBN : 978-3-319-92804-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-92804-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-92804-3
+Subject Classification : Engineering; Electrical Engineering; Logic Design; Algorithms
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Internet of Things From Hype to Reality
+Author : Ammar Rayes, Samer Salam
+Edition : 2nd ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-99515-1
+Electronic ISBN : 978-3-319-99516-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-99516-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-99516-8
+Subject Classification : Engineering; Communications Engineering, Networks; Electronics and Microelectronics, Instrumentation; Information Systems Applications (incl.Internet); User Interfaces and Human Computer Interaction
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Structural Dynamics
+Author : Mario Paz, Young Hoon Kim
+Edition : 6th ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-94742-6
+Electronic ISBN : 978-3-319-94743-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-94743-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-94743-3
+Subject Classification : Engineering; Civil Engineering
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Quick Start Guide to VHDL
+Author : Brock J. LaMeres
+Edition : 1st ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-04515-9
+Electronic ISBN : 978-3-030-04516-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-04516-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-04516-6
+Subject Classification : Engineering; Circuits and Systems; Processor Architectures; Logic Design
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Astronautics
+Author : Ulrich Walter
+Edition : 3rd ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-74372-1
+Electronic ISBN : 978-3-319-74373-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-74373-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-74373-8
+Subject Classification : Engineering; Aerospace Technology and Astronautics; Space Sciences (including Extraterrestrial Physics, Space Exploration and Astronautics); Classical Mechanics; Classical and Quantum Gravitation, Relativity Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Quick Start Guide to Verilog
+Author : Brock J. LaMeres
+Edition : 1st ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-10551-8
+Electronic ISBN : 978-3-030-10552-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11647
+English Package Name : Engineering
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-10552-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-10552-5
+Subject Classification : Engineering; Circuits and Systems; Processor Architectures; Logic Design
+Publisher : Springer International Publishing
+Imprint : Springer
+
