@@ -1,0 +1,184 @@
+Book Title : Irrigation and Drainage Engineering
+Author : Peter Waller, Muluneh Yitayew
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-05698-2
+Electronic ISBN : 978-3-319-05699-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-05699-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-05699-9
+Subject Classification : Earth Sciences; Hydrogeology; Water Industry/Water Technologies; Soil Science & Conservation; Geoengineering, Foundations, Hydraulics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Climate Change Science: A Modern Synthesis
+Author : G. Thomas Farmer, John Cook
+Edition : 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media Dordrecht
+Print ISBN : 978-94-007-5756-1
+Electronic ISBN : 978-94-007-5757-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-007-5757-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-007-5757-8
+Subject Classification : Environment; Environment, general; Climate Change/Climate Change Impacts; Earth Sciences, general; Lifelong Learning/Adult Education; Geography, general; Organic Chemistry
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Petroleum Geoscience
+Author : Knut Bjørlykke
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-34131-1
+Electronic ISBN : 978-3-642-34132-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-34132-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-34132-8
+Subject Classification : Earth Sciences; Geology
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : The Sea Floor
+Author : Eugen Seibold, Wolfgang Berger
+Edition : 4th ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-51411-6
+Electronic ISBN : 978-3-319-51412-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 2510-1307
+Series Electronic ISSN : 2510-1315
+Series Title : Springer Textbooks in Earth Sciences, Geography and Environment
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-51412-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-51412-3
+Subject Classification : Earth Sciences; Oceanography; Sedimentology; Ecology; Geoecology/Natural Processes; Marine & Freshwater Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : An Introduction to Soil Mechanics
+Author : Arnold Verruijt
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-61184-6
+Electronic ISBN : 978-3-319-61185-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 0924-6118
+Series Electronic ISSN : 2213-6940
+Series Title : Theory and Applications of Transport in Porous Media
+Volume Number : 30
+DOI URL : http://doi.org/10.1007/978-3-319-61185-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-61185-3
+Subject Classification : Engineering; Civil Engineering; Hydrogeology; Soil Science & Conservation; Geotechnical Engineering & Applied Earth Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Sustainability Science
+Author : Harald Heinrichs, Pim Martens, Gerd Michelsen, Arnim Wiek
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer Science+Business Media Dordrecht
+Print ISBN : 978-94-017-7241-9
+Electronic ISBN : 978-94-017-7242-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-017-7242-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-017-7242-6
+Subject Classification : Environment; Sustainable Development; Geoecology/Natural Processes; Social Sciences, general
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Python For ArcGIS
+Author : Laura Tateosian
+Edition : 1st ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-18397-8
+Electronic ISBN : 978-3-319-18398-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-18398-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-18398-5
+Subject Classification : Geography; Geographical Information Systems/Cartography; Programming Languages, Compilers, Interpreters; Information Systems Applications (incl.Internet); Earth Sciences, general
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : ArcGIS for Environmental and Water Issues
+Author : William Bajjali
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-61157-0
+Electronic ISBN : 978-3-319-61158-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11646
+English Package Name : Earth and Environmental Science
+German Package Name : 
+Series Print ISSN : 2510-1307
+Series Electronic ISSN : 2510-1315
+Series Title : Springer Textbooks in Earth Sciences, Geography and Environment
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-61158-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-61158-7
+Subject Classification : Geography; Geographical Information Systems/Cartography; Hydrogeology; Hydrology/Water Resources; Monitoring/Environmental Analysis; Regional/Spatial Science
+Publisher : Springer International Publishing
+Imprint : Springer
+
