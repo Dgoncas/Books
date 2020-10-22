@@ -1,0 +1,345 @@
+Book Title : Database Marketing
+Author : Robert C. Blattberg, Byung-Do Kim, Scott A. Neslin
+Edition : 2008
+Product Type : Undergraduate textbook
+Copyright Year : 2008.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-72578-9
+Electronic ISBN : 978-0-387-72579-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 0923-6716
+Series Electronic ISSN : 2199-1057
+Series Title : International Series in Quantitative Marketing
+Volume Number : 18
+DOI URL : http://doi.org/10.1007/978-0-387-72579-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-72579-6
+Subject Classification : Business and Management; Market Research/Competitive Intelligence; Marketing; Management; Innovation/Technology Management
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Microeconomics
+Author : Peter Dorman
+Edition : 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-37433-3
+Electronic ISBN : 978-3-642-37434-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-37434-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-37434-0
+Subject Classification : Economics; Microeconomics; International Political Economy
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Design Research in Information Systems
+Author : Alan Hevner, Samir Chatterjee
+Edition : 2010
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2010.0
+Copyright Holder : Springer Science+Business Media, LLC
+Print ISBN : 978-1-4419-5652-1
+Electronic ISBN : 978-1-4419-5653-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 1571-0270
+Series Electronic ISSN : 2197-7968
+Series Title : Integrated Series in Information Systems
+Volume Number : 22
+DOI URL : http://doi.org/10.1007/978-1-4419-5653-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-5653-8
+Subject Classification : Business and Management; IT in Business; Management of Computing and Information Systems; Information Systems and Communication Service; Models and Principles; Information Systems Applications (incl.Internet); e-Commerce/e-business
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Strategic International Management
+Author : Dirk Morschett, Hanna Schramm-Klein, Joachim Zentes
+Edition : 2nd ed. 2010
+Product Type : German textbook
+Copyright Year : 2010.0
+Copyright Holder : Gabler Verlag | Springer Fachmedien Wiesbaden GmbH, Wiesbaden
+Print ISBN : 978-3-8349-2535-0
+Electronic ISBN : 978-3-8349-6331-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-8349-6331-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-8349-6331-4
+Subject Classification : Business and Management; Business Strategy/Leadership; Management; Marketing
+Publisher : Gabler Verlag
+Imprint : Gabler Verlag
+
+Book Title : International Trade Theory and Policy
+Author : Giancarlo Gandolfo
+Edition : 2nd ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag Berlin · Heidelberg
+Print ISBN : 978-3-642-37313-8
+Electronic ISBN : 978-3-642-37314-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-37314-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-37314-5
+Subject Classification : Economics; International Economics; European Integration; Political Economy/Economic Policy
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Supply Chain Management and Advanced Planning
+Author : Hartmut Stadtler, Christoph Kilger, Herbert Meyr
+Edition : 5th ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-55308-0
+Electronic ISBN : 978-3-642-55309-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-55309-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-55309-7
+Subject Classification : Business and Management; Supply Chain Management; Operations Management; IT in Business; Engineering Economics, Organization, Logistics, Marketing
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Search Methodologies
+Author : Edmund K. Burke, Graham Kendall
+Edition : 2nd ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-6939-1
+Electronic ISBN : 978-1-4614-6940-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-6940-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6940-7
+Subject Classification : Business and Management; Operations Research/Decision Theory; Operations Research, Management Science
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Linear Programming
+Author : Robert J Vanderbei
+Edition : 4th ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-7629-0
+Electronic ISBN : 978-1-4614-7630-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 0884-8289
+Series Electronic ISSN : 2214-7934
+Series Title : International Series in Operations Research & Management Science
+Volume Number : 196
+DOI URL : http://doi.org/10.1007/978-1-4614-7630-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7630-6
+Subject Classification : Business and Management; Operations Research/Decision Theory; Operations Research, Management Science; Optimization
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Corporate Social Responsibility
+Author : John O. Okpara, Samuel O. Idowu
+Edition : 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-40974-5
+Electronic ISBN : 978-3-642-40975-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2196-7075
+Series Electronic ISSN : 2196-7083
+Series Title : CSR, Sustainability, Ethics & Governance
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-40975-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-40975-2
+Subject Classification : Business and Management; Business Ethics; Public Administration; Business Strategy/Leadership
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Electronic Commerce
+Author : Efraim Turban, David King, Jae Kyu Lee, Ting-Peng Liang, Deborrah C. Turban
+Edition : 8th ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-10090-6
+Electronic ISBN : 978-3-319-10091-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-10091-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-10091-3
+Subject Classification : Business and Management; IT in Business; Operations Research/Decision Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Econometrics
+Author : Badi H. Baltagi
+Edition : 5th ed. 2011
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2011.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-20058-8
+Electronic ISBN : 978-3-642-20059-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-20059-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-20059-5
+Subject Classification : Economics; Econometrics; Statistics for Social Science, Behavorial Science, Education, Public Policy, and Law; Economic Theory/Quantitative Economics/Mathematical Methods; Game Theory, Economics, Social and Behav. Sciences
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Logistics
+Author : Harald Gleissner, J. Christian Femerling
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-01768-6
+Electronic ISBN : 978-3-319-01769-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-01769-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-01769-3
+Subject Classification : Business and Management; Operations Management; Engineering Economics, Organization, Logistics, Marketing; Organization
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : New Introduction to Multiple Time Series Analysis
+Author : Helmut Lütkepohl
+Edition : 2005
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2005.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-540-40172-8
+Electronic ISBN : 978-3-540-27752-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-540-27752-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-540-27752-1
+Subject Classification : Economics; Econometrics; Statistics for Business/Economics/Mathematical Finance/Insurance; Mathematical and Computational Engineering
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Game Theory
+Author : Hans Peters
+Edition : 2nd ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-662-46949-1
+Electronic ISBN : 978-3-662-46950-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-46950-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-46950-7
+Subject Classification : Economics; Game Theory; Game Theory, Economics, Social and Behav. Sciences; Operations Research/Decision Theory; Microeconomics
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Physical Asset Management
+Author : Nicholas Anthony John Hastings
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-14776-5
+Electronic ISBN : 978-3-319-14777-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11643
+English Package Name : Business and Economics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-14777-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-14777-2
+Subject Classification : Economics; Industrial Organization; Quality Control, Reliability, Safety and Risk; Accounting/Auditing; Operations Management
+Publisher : Springer International Publishing
+Imprint : Springer
+
