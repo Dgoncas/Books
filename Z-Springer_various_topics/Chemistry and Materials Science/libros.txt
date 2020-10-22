@@ -1,0 +1,690 @@
+Book Title : Ceramic Materials
+Author : C. Barry Carter, M. Grant Norton
+Edition : 2007
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2007.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-46270-7
+Electronic ISBN : 978-0-387-46271-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-46271-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-46271-4
+Subject Classification : Materials Science; Ceramics, Glass, Composites, Natural Materials; Industrial and Production Engineering; Characterization and Evaluation of Materials; Inorganic Chemistry; Nanotechnology
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Composite Materials
+Author : Krishan K. Chawla
+Edition : 3rd ed. 2012
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-0-387-74364-6
+Electronic ISBN : 978-0-387-74365-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-74365-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-74365-3
+Subject Classification : Materials Science; Ceramics, Glass, Composites, Natural Materials; Engineering Design; Polymer Sciences; Mechanical Engineering; Civil Engineering
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Transmission Electron Microscopy
+Author : David B. Williams, C. Barry Carter
+Edition : 2nd ed. 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag US
+Print ISBN : 978-0-387-76500-6
+Electronic ISBN : 978-0-387-76501-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-76501-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-76501-3
+Subject Classification : Materials Science; Characterization and Evaluation of Materials; Nanotechnology; Solid State Physics; Spectroscopy and Microscopy
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Sensory Evaluation of Food
+Author : Harry T. Lawless, Hildegarde Heymann
+Edition : 2nd ed. 2010
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2010.0
+Copyright Holder : Springer Science+Business Media, LLC
+Print ISBN : 978-1-4419-6487-8
+Electronic ISBN : 978-1-4419-6488-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 1572-0330
+Series Electronic ISSN : 2214-7799
+Series Title : Food Science Text Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4419-6488-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-6488-5
+Subject Classification : Chemistry; Food Science; Neurochemistry; Receptors
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Engineering Flow and Heat Exchange
+Author : Octave Levenspiel
+Edition : 3rd ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4899-7453-2
+Electronic ISBN : 978-1-4899-7454-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4899-7454-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4899-7454-9
+Subject Classification : Chemistry; Industrial Chemistry/Chemical Engineering; Engineering Thermodynamics, Heat and Mass Transfer; Engineering Fluid Dynamics; Mechanical Engineering; Thermodynamics
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Chemical Thermodynamics
+Author : Ernö Keszei
+Edition : 2012
+Product Type : Undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-19863-2
+Electronic ISBN : 978-3-642-19864-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-19864-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-19864-9
+Subject Classification : Chemistry; Physical Chemistry; Thermodynamics; Engineering Thermodynamics, Heat and Mass Transfer; Industrial Chemistry/Chemical Engineering; Materials Science, general; Biochemistry, general
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Electrochemistry
+Author : Christine Lefrou, Pierre Fabry, Jean-Claude Poignet
+Edition : 2012
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-30249-7
+Electronic ISBN : 978-3-642-30250-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-30250-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-30250-3
+Subject Classification : Chemistry; Electrochemistry; Energy Storage; Optical and Electronic Materials; Thermodynamics; Electrical Engineering
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Acid-Base Diagrams
+Author : Heike Kahlert, Fritz Scholz
+Edition : 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-37901-7
+Electronic ISBN : 978-3-642-37902-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-37902-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-37902-4
+Subject Classification : Chemistry; Analytical Chemistry; Biochemistry, general; Environmental Chemistry; Inorganic Chemistry; Physical Chemistry; Geochemistry
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Brewing Science: A Multidisciplinary Approach
+Author : Michael Mosher, Kenneth Trantham
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-46393-3
+Electronic ISBN : 978-3-319-46394-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-46394-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-46394-0
+Subject Classification : Chemistry; Food Science; Organic Chemistry
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Principles of Polymer Chemistry
+Author : A. Ravve
+Edition : 3rd ed. 2012
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer Science+Business Media, LLC
+Print ISBN : 978-1-4614-2211-2
+Electronic ISBN : 978-1-4614-2212-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-2212-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-2212-9
+Subject Classification : Chemistry; Polymer Sciences; Organic Chemistry; Physical Chemistry
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Nanotechnology: Principles and Practices
+Author : Sulabha K. Kulkarni
+Edition : 3rd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Capital Publishing Company
+Print ISBN : 978-3-319-09170-9
+Electronic ISBN : 978-3-319-09171-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-09171-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-09171-6
+Subject Classification : Materials Science; Nanotechnology; Nanoscale Science and Technology; Nanochemistry
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Structure Determination by X-ray Crystallography
+Author : Mark Ladd, Rex Palmer
+Edition : 5th ed. 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-3953-0
+Electronic ISBN : 978-1-4614-3954-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-3954-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-3954-7
+Subject Classification : Chemistry; Physical Chemistry; Crystallography and Scattering Methods; Protein Structure; Characterization and Evaluation of Materials; Geophysics/Geodesy
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Foundations of Analytical Chemistry
+Author : Miguel Valcárcel Cases, Ángela I. López-Lorente, Ma Ángeles López-Jiménez
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-62871-4
+Electronic ISBN : 978-3-319-62872-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-62872-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-62872-1
+Subject Classification : Chemistry; Analytical Chemistry; Monitoring/Environmental Analysis; Characterization and Evaluation of Materials; Biochemistry, general; Pharmacology/Toxicology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Mass Spectrometry
+Author : Jürgen H Gross
+Edition : 3rd ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-54397-0
+Electronic ISBN : 978-3-319-54398-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-54398-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-54398-7
+Subject Classification : Chemistry; Mass Spectrometry; Proteomics; Pharmacology/Toxicology; Monitoring/Environmental Analysis; Organic Chemistry; Forensic Science
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Statistical Mechanics for Engineers
+Author : Isamu Kusaka
+Edition : 1st ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-13809-1
+Electronic ISBN : 978-3-319-15018-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-13809-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-15018-5
+Subject Classification : Chemistry; Industrial Chemistry/Chemical Engineering; Theoretical and Computational Chemistry; Complex Systems; Engineering Thermodynamics, Heat and Mass Transfer; Statistical Physics and Dynamical Systems
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Magnetic Interactions in Molecules and Solids
+Author : Coen de Graaf, Ria Broer
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-22950-8
+Electronic ISBN : 978-3-319-22951-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 2214-4714
+Series Electronic ISSN : 2214-4722
+Series Title : Theoretical Chemistry and Computational Modelling
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-22951-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-22951-5
+Subject Classification : Chemistry; Theoretical and Computational Chemistry; Inorganic Chemistry; Structural Materials
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Polymer Synthesis: Theory and Practice
+Author : Dietrich Braun, Harald Cherdron, Matthias Rehahn, Helmut Ritter, Brigitte Voit
+Edition : 5th ed. 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-642-28979-8
+Electronic ISBN : 978-3-642-28980-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-642-28980-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-642-28980-4
+Subject Classification : Chemistry; Polymer Sciences; Organic Chemistry; Soft and Granular Matter, Complex Fluids and Microfluidics; Physical Chemistry
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Food Analysis Laboratory Manual
+Author : S. Suzanne Nielsen
+Edition : 3rd ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing
+Print ISBN : 978-3-319-44125-2
+Electronic ISBN : 978-3-319-44127-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 1572-0330
+Series Electronic ISSN : 2214-7799
+Series Title : Food Science Text Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-44127-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-44127-6
+Subject Classification : Chemistry; Food Science; Industrial Chemistry/Chemical Engineering; Spectroscopy/Spectrometry
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Electrochemical Impedance Spectroscopy and its Applications
+Author : Andrzej Lasia
+Edition : 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-8932-0
+Electronic ISBN : 978-1-4614-8933-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-8933-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-8933-7
+Subject Classification : Chemistry; Electrochemistry; Spectroscopy/Spectrometry
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Group Theory Applied to Chemistry
+Author : Arnout Jozef Ceulemans
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media Dordrecht
+Print ISBN : 978-94-007-6862-8
+Electronic ISBN : 978-94-007-6863-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 2214-4714
+Series Electronic ISSN : 2214-4722
+Series Title : Theoretical Chemistry and Computational Modelling
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-007-6863-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-007-6863-5
+Subject Classification : Chemistry; Theoretical and Computational Chemistry; Crystallography and Scattering Methods; Inorganic Chemistry
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Food Chemistry
+Author : H.-D. Belitz, Werner Grosch, Peter Schieberle
+Edition : 4th ed. 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-540-69933-0
+Electronic ISBN : 978-3-540-69934-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-540-69934-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-540-69934-7
+Subject Classification : Chemistry; Food Science; Agriculture; Analytical Chemistry; Biochemistry, general; Nutrition
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Exam Survival Guide: Physical Chemistry
+Author : Jochen Vogt
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-49808-9
+Electronic ISBN : 978-3-319-49810-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-49810-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-49810-2
+Subject Classification : Chemistry; Physical Chemistry; Thermodynamics; Spectroscopy/Spectrometry; Electrochemistry
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Food Analysis
+Author : S. Suzanne Nielsen
+Edition : 5th ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing
+Print ISBN : 978-3-319-45774-1
+Electronic ISBN : 978-3-319-45776-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 1572-0330
+Series Electronic ISSN : 2214-7799
+Series Title : Food Science Text Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-45776-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-45776-5
+Subject Classification : Chemistry; Food Science; Industrial Chemistry/Chemical Engineering; Spectroscopy/Spectrometry
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Physical Chemistry from a Different Angle
+Author : Georg Job, Regina Rüffler
+Edition : 1st ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-15665-1
+Electronic ISBN : 978-3-319-15666-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-15666-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-15666-8
+Subject Classification : Chemistry; Physical Chemistry; Thermodynamics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Essentials of Food Science
+Author : Vickie A. Vaclavik, Elizabeth W. Christian
+Edition : 4th ed. 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-9137-8
+Electronic ISBN : 978-1-4614-9138-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 1572-0330
+Series Electronic ISSN : 2214-7799
+Series Title : Food Science Text Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-9138-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-9138-5
+Subject Classification : Chemistry; Food Science
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Chemical and Bioprocess Engineering
+Author : Ricardo Simpson, Sudhir K. Sastry
+Edition : 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-9125-5
+Electronic ISBN : 978-1-4614-9126-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-9126-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-9126-2
+Subject Classification : Chemistry; Biochemical Engineering; Food Science; Engineering Thermodynamics, Heat and Mass Transfer; Mathematical Modeling and Industrial Mathematics
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Applied Chemistry
+Author : Oleg Roussak, H. D. Gesser
+Edition : 2nd ed. 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-4261-5
+Electronic ISBN : 978-1-4614-4262-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-4262-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-4262-2
+Subject Classification : Chemistry; Industrial Chemistry/Chemical Engineering; Physical Chemistry; Renewable and Green Energy; Characterization and Evaluation of Materials
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Advanced Organic Chemistry
+Author : Francis A. Carey, Richard J. Sundberg
+Edition : 5th ed. 2007
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2007.0
+Copyright Holder : Springer-Verlag US
+Print ISBN : 978-0-387-44897-8
+Electronic ISBN : 978-0-387-44899-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : Advanced Organic Chemistry
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-44899-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-44899-2
+Subject Classification : Chemistry; Organic Chemistry; Physical Chemistry; Medicinal Chemistry
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Scanning Electron Microscopy and X-Ray Microanalysis
+Author : Joseph I. Goldstein, Dale E. Newbury, Joseph R. Michael, Nicholas W.M. Ritchie, John Henry J. Scott, David C. Joy
+Edition : 4th ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Science+Business Media LLC
+Print ISBN : 978-1-4939-6674-5
+Electronic ISBN : 978-1-4939-6676-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-6676-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-6676-9
+Subject Classification : Materials Science; Characterization and Evaluation of Materials; Spectroscopy and Microscopy; Biological Microscopy; Spectroscopy/Spectrometry; Measurement Science and Instrumentation
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Polymer Chemistry
+Author : Sebastian Koltzenburg, Michael Maskos, Oskar Nuyken
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-662-49277-2
+Electronic ISBN : 978-3-662-49279-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11644
+English Package Name : Chemistry and Materials Science
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-49279-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-49279-6
+Subject Classification : Chemistry; Polymer Sciences; Organic Chemistry; Inorganic Chemistry
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
