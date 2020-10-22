@@ -1,0 +1,575 @@
+Book Title : Linear and Nonlinear Programming
+Author : David G. Luenberger, Yinyu Ye
+Edition : 4th ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-18841-6
+Electronic ISBN : 978-3-319-18842-3
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 0884-8289
+Series Electronic ISSN : 2214-7934
+Series Title : International Series in Operations Research & Management Science
+Volume Number : 228
+DOI URL : http://doi.org/10.1007/978-3-319-18842-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3
+Subject Classification : Business and Management; Operations Research/Decision Theory; Operations Research, Management Science; Mathematical Modeling and Industrial Mathematics; Engineering Economics, Organization, Logistics, Marketing
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Enterprise Risk Management Models
+Author : David L. Olson, Desheng Dash Wu
+Edition : 2nd ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer-Verlag GmbH Germany
+Print ISBN : 978-3-662-53784-8
+Electronic ISBN : 978-3-662-53785-5
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-53785-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-53785-5
+Subject Classification : Business and Management; Operations Management; Risk Management
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Introduction to Electronic Commerce and Social Commerce
+Author : Efraim Turban, Judy Whiteside, David King, Jon Outland
+Edition : 4th ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-50090-4
+Electronic ISBN : 978-3-319-50091-1
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-50091-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-50091-1
+Subject Classification : Business and Management; e-Business/e-Commerce; Business Information Systems
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Business Process Management Cases
+Author : Jan vom Brocke, Jan Mendling
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-58306-8
+Electronic ISBN : 978-3-319-58307-5
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-8096
+Series Electronic ISSN : 2192-810X
+Series Title : Management for Professionals
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-58307-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-58307-5
+Subject Classification : Business and Management; Business Process Management; Information Systems Applications (incl.Internet); Business Information Systems; Organization; Organizational Studies, Economic Sociology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Social Media Management
+Author : Amy Van Looy
+Edition : 1st ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-21989-9
+Electronic ISBN : 978-3-319-21990-5
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-21990-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-21990-5
+Subject Classification : Business and Management; Media Management; IT in Business; Marketing; e-Commerce/e-business; Human Resource Management
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Multinational Management
+Author : Rien Segers
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-23011-5
+Electronic ISBN : 978-3-319-23012-2
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-23012-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-23012-2
+Subject Classification : Business and Management; International Business
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Leadership Today
+Author : Joan Marques, Satinder Dhiman
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-31034-3
+Electronic ISBN : 978-3-319-31036-7
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-31036-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-31036-7
+Subject Classification : Business and Management; Business Strategy/Leadership; Organization; Human Resource Development
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Sustainable Supply Chains
+Author : Yann Bouchery, Charles J. Corbett, Jan C. Fransoo, Tarkan Tan
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Yann Bouchery, Charles J. Corbett, Jan C. Fransoo, and Tarkan Tan
+Print ISBN : 978-3-319-29789-7
+Electronic ISBN : 978-3-319-29791-0
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2365-6395
+Series Electronic ISSN : 2365-6409
+Series Title : Springer Series in Supply Chain Management
+Volume Number : 4
+DOI URL : http://doi.org/10.1007/978-3-319-29791-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-29791-0
+Subject Classification : Business and Management; Operations Research/Decision Theory; Supply Chain Management; Procurement
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Strategic Retail Management
+Author : Joachim Zentes, Dirk Morschett, Hanna Schramm-Klein
+Edition : 3rd ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer Fachmedien Wiesbaden GmbH
+Print ISBN : 978-3-658-10182-4
+Electronic ISBN : 978-3-658-10183-1
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-658-10183-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-658-10183-1
+Subject Classification : Business and Management; Trade; Sales/Distribution; Marketing
+Publisher : Springer Fachmedien Wiesbaden
+Imprint : Springer Gabler
+
+Book Title : Travel Marketing, Tourism Economics and the Airline Product
+Author : Mark Anthony Camilleri
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-49848-5
+Electronic ISBN : 978-3-319-49849-2
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2510-4993
+Series Electronic ISSN : 2510-5000
+Series Title : Tourism, Hospitality & Event Management
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-49849-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-49849-2
+Subject Classification : Business and Management; Tourism Management; Marketing; Media and Communication
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Electronic Commerce 2018
+Author : Efraim Turban, Jon Outland, David King, Jae Kyu Lee, Ting-Peng Liang, Deborrah C. Turban
+Edition : 9th ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : The Editor(s) (if applicable) and The Author(s)
+Print ISBN : 978-3-319-58714-1
+Electronic ISBN : 978-3-319-58715-8
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-58715-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-58715-8
+Subject Classification : Business and Management; e-Business/e-Commerce; Business Information Systems; Operations Research/Decision Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Market Research
+Author : Erik Mooi, Marko Sarstedt, Irma Mooi-Reci
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Singapore Pte Ltd.
+Print ISBN : 978-981-10-5217-0
+Electronic ISBN : 978-981-10-5218-7
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-981-10-5218-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-981-10-5218-7
+Subject Classification : Business and Management; Market Research/Competitive Intelligence; Statistics for Business/Economics/Mathematical Finance/Insurance; Knowledge Management
+Publisher : Springer Singapore
+Imprint : Springer
+
+Book Title : Managing Sustainable Business
+Author : Gilbert G. Lenssen, N. Craig Smith
+Edition : 1st ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Science+Business Media B.V., part of Springer Nature
+Print ISBN : 978-94-024-1142-3
+Electronic ISBN : 978-94-024-1144-7
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-024-1144-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-024-1144-7
+Subject Classification : Business and Management; Business Ethics; Administration, Organization and Leadership; Business Strategy/Leadership; Emerging Markets/Globalization
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Knowledge Management
+Author : Klaus North, Gita Kumta
+Edition : 2nd ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-59977-9
+Electronic ISBN : 978-3-319-59978-6
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-59978-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-59978-6
+Subject Classification : Business and Management; Knowledge Management; Innovation/Technology Management; Organization; Industrial Organization
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Customer Relationship Management
+Author : V. Kumar, Werner Reinartz
+Edition : 3rd ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer-Verlag GmbH Germany, part of Springer Nature
+Print ISBN : 978-3-662-55380-0
+Electronic ISBN : 978-3-662-55381-7
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-55381-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-55381-7
+Subject Classification : Business and Management; Customer Relationship Management; Big Data/Analytics; Business Strategy/Leadership
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Strategic Human Resource Management and Employment Relations
+Author : Ashish Malik
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Singapore Pte Ltd.
+Print ISBN : 978-981-13-0398-2
+Electronic ISBN : 978-981-13-0399-9
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-981-13-0399-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-981-13-0399-9
+Subject Classification : Business and Management; Human Resource Management; Organization; Business Strategy/Leadership
+Publisher : Springer Singapore
+Imprint : Springer
+
+Book Title : Entertainment Science
+Author : Thorsten Hennig-Thurau, Mark B. Houston
+Edition : 1st ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-89290-0
+Electronic ISBN : 978-3-319-89292-4
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-89292-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-89292-4
+Subject Classification : Business and Management; Media Management; Market Research/Competitive Intelligence; Popular Science in Business and Management; Big Data/Analytics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Analytical Corporate Finance
+Author : Angelo Corelli
+Edition : 2nd ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-95761-6
+Electronic ISBN : 978-3-319-95762-3
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-95762-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-95762-3
+Subject Classification : Business and Management; Business Finance; Risk Management; Quantitative Finance; Financial Engineering; Financial Accounting
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : A Concise Guide to Market Research
+Author : Marko Sarstedt, Erik Mooi
+Edition : 3rd ed. 2019
+Product Type : Undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer-Verlag GmbH Germany, part of Springer Nature
+Print ISBN : 978-3-662-56706-7
+Electronic ISBN : 978-3-662-56707-4
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-56707-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-56707-4
+Subject Classification : Business and Management; Marketing; Management; Statistics for Business/Economics/Mathematical Finance/Insurance
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Global Supply Chain and Operations Management
+Author : Dmitry Ivanov, Alexander Tsipoulanidis, Jörn Schönberger
+Edition : 2nd ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-94312-1
+Electronic ISBN : 978-3-319-94313-8
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-94313-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-94313-8
+Subject Classification : Business and Management; Operations Management; Operations Research/Decision Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : International Business Management
+Author : Kamal Fatehi, Jeongho Choi
+Edition : 2nd ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-96621-2
+Electronic ISBN : 978-3-319-96622-9
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-96622-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-96622-9
+Subject Classification : Business and Management; Cross-Cultural Management; Business Strategy/Leadership; Human Resource Management; Business Information Systems
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Excel Data Analysis
+Author : Hector Guerrero
+Edition : 2nd ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-01278-6
+Electronic ISBN : 978-3-030-01279-3
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-01279-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-01279-3
+Subject Classification : Business and Management; Operations Research/Decision Theory; Probability Theory and Stochastic Processes; Statistics for Business/Economics/Mathematical Finance/Insurance; Organization; Business Mathematics; IT in Business
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Digital Business Models
+Author : Bernd W. Wirtz
+Edition : 1st ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-13004-6
+Electronic ISBN : 978-3-030-13005-3
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2196-8705
+Series Electronic ISSN : 2196-8713
+Series Title : Progress in IS
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-13005-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-13005-3
+Subject Classification : Business and Management; e-Business/e-Commerce; e-Commerce/e-business; Organization; Innovation/Technology Management; Entrepreneurship
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Social Marketing in Action
+Author : Debra Z. Basil, Gonzalo Diaz-Meneses, Michael D. Basil
+Edition : 1st ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-13019-0
+Electronic ISBN : 978-3-030-13020-6
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 2192-4333
+Series Electronic ISSN : 2192-4341
+Series Title : Springer Texts in Business and Economics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-13020-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-13020-6
+Subject Classification : Business and Management; Consumer Behavior; Market Research/Competitive Intelligence; Management Education
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Essentials of Business Analytics
+Author : Bhimasankaram Pochiraju, Sridhar Seshadri
+Edition : 1st ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-68836-7
+Electronic ISBN : 978-3-319-68837-4
+Language : EN
+Language Collection : English/International
+eBook Package : 41169
+English Package Name : Business and Management
+German Package Name : 
+Series Print ISSN : 0884-8289
+Series Electronic ISSN : 2214-7934
+Series Title : International Series in Operations Research & Management Science
+Volume Number : 264
+DOI URL : http://doi.org/10.1007/978-3-319-68837-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-68837-4
+Subject Classification : Business and Management; Operations Research/Decision Theory; Statistics for Business/Economics/Mathematical Finance/Insurance; Big Data/Analytics
+Publisher : Springer International Publishing
+Imprint : Springer
+
