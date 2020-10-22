@@ -1,0 +1,1220 @@
+Book Title : All of Statistics
+Author : Larry Wasserman
+Edition : 2004
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2004.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-40272-7
+Electronic ISBN : 978-0-387-21736-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-21736-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-21736-9
+Subject Classification : Mathematics; Computational Mathematics and Numerical Analysis; Probability Theory and Stochastic Processes; Complex Systems; Statistical Theory and Methods; Probability and Statistics in Computer Science; Statistics for Engineering, Physics, Computer Science, Chemistry and Earth Sciences
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Discrete Mathematics
+Author : László Lovász, József Pelikán, Katalin Vesztergombi
+Edition : 2003
+Product Type : Undergraduate textbook
+Copyright Year : 2003.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-95584-1
+Electronic ISBN : 978-0-387-21777-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/b97469
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-21777-2
+Subject Classification : Mathematics; Combinatorics; Number Theory
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Numerical Optimization
+Author : Jorge Nocedal, Stephen Wright
+Edition : 2nd ed. 2006
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2006.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-30303-1
+Electronic ISBN : 978-0-387-40065-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-8598
+Series Electronic ISSN : 2197-1773
+Series Title : Springer Series in Operations Research and Financial Engineering
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-40065-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-40065-5
+Subject Classification : Mathematics; Optimization; Calculus of Variations and Optimal Control; Optimization; Systems Theory, Control; Computational Mathematics and Numerical Analysis; Operations Research/Decision Theory
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Time Series Analysis
+Author : Jonathan D. Cryer, Kung-Sik Chan
+Edition : 2nd ed. 2008
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2008.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-75958-6
+Electronic ISBN : 978-0-387-75959-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-75959-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-75959-3
+Subject Classification : Mathematics; Probability Theory and Stochastic Processes; Statistical Theory and Methods; Actuarial Sciences
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Introductory Statistics with R
+Author : Peter Dalgaard
+Edition : 2nd ed. 2008
+Product Type : Undergraduate textbook
+Copyright Year : 2008.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-79053-4
+Electronic ISBN : 978-0-387-79054-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-8784
+Series Electronic ISSN : 2197-1706
+Series Title : Statistics and Computing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-79054-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-79054-1
+Subject Classification : Mathematics; Probability Theory and Stochastic Processes; Statistics and Computing/Statistics Programs; Bioinformatics; Computer Appl. in Life Sciences
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : The Elements of Statistical Learning
+Author : Trevor Hastie, Robert Tibshirani, Jerome Friedman
+Edition : 2nd ed. 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-84857-0
+Electronic ISBN : 978-0-387-84858-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-7397
+Series Electronic ISSN : 2197-568X
+Series Title : Springer Series in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-84858-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
+Subject Classification : Computer Science; Data Mining and Knowledge Discovery; Probability Theory and Stochastic Processes; Statistical Theory and Methods; Computational Biology/Bioinformatics; Computer Appl. in Life Sciences
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Introductory Time Series with R
+Author : Paul S.P. Cowpertwait, Andrew V. Metcalfe
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-88697-8
+Electronic ISBN : 978-0-387-88698-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 2197-5736
+Series Electronic ISSN : 2197-5744
+Series Title : Use R!
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-88698-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5
+Subject Classification : Mathematics; Probability Theory and Stochastic Processes; Statistical Theory and Methods; Probability and Statistics in Computer Science; Marketing; Econometrics; Signal, Image and Speech Processing
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : A Beginner's Guide to R
+Author : Alain Zuur, Elena N. Ieno, Erik Meesters
+Edition : 2009
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2009.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-93836-3
+Electronic ISBN : 978-0-387-93837-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 2197-5736
+Series Electronic ISSN : 2197-5744
+Series Title : Use R!
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-93837-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0
+Subject Classification : Statistics; Statistics and Computing/Statistics Programs; Theoretical Ecology/Statistics; Statistics for Life Sciences, Medicine, Health Sciences
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Reading, Writing, and Proving
+Author : Ulrich Daepp, Pamela Gorkin
+Edition : 2nd ed. 2011
+Product Type : Undergraduate textbook
+Copyright Year : 2011.0
+Copyright Holder : Springer Science+Business Media,LLC
+Print ISBN : 978-1-4419-9478-3
+Electronic ISBN : 978-1-4419-9479-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4419-9479-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-9479-0
+Subject Classification : Mathematics; Mathematical Logic and Foundations; Analysis; Number Theory
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Introduction to Partial Differential Equations
+Author : David Borthwick
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-48934-6
+Electronic ISBN : 978-3-319-48936-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-5939
+Series Electronic ISSN : 2191-6675
+Series Title : Universitext
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-48936-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0
+Subject Classification : Mathematics; Partial Differential Equations; Mathematical Applications in the Physical Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Methods of Mathematical Modelling
+Author : Thomas Witelski, Mark Bowen
+Edition : 1st ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-23041-2
+Electronic ISBN : 978-3-319-23042-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1615-2085
+Series Electronic ISSN : 2197-4144
+Series Title : Springer Undergraduate Mathematics Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-23042-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9
+Subject Classification : Mathematics; Ordinary Differential Equations; Partial Differential Equations; Mathematical Applications in the Physical Sciences; Mathematical Modeling and Industrial Mathematics; Calculus of Variations and Optimal Control; Optimization
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Statistics and Data Analysis 
+Author : Christian Heumann, Michael Schomaker,  Shalabh
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-46160-1
+Electronic ISBN : 978-3-319-46162-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-46162-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5
+Subject Classification : Statistics; Statistical Theory and Methods; Statistics for Business/Economics/Mathematical Finance/Insurance; Econometrics; Macroeconomics/Monetary Economics//Financial Economics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Classical Fourier Analysis
+Author : Loukas Grafakos
+Edition : 3rd ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4939-1193-6
+Electronic ISBN : 978-1-4939-1194-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0072-5285
+Series Electronic ISSN : 2197-5612
+Series Title : Graduate Texts in Mathematics
+Volume Number : 249
+DOI URL : http://doi.org/10.1007/978-1-4939-1194-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-1194-3
+Subject Classification : Mathematics; Fourier Analysis; Abstract Harmonic Analysis; Functional Analysis
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Quantum Theory for Mathematicians
+Author : Brian C. Hall
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-7115-8
+Electronic ISBN : 978-1-4614-7116-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0072-5285
+Series Electronic ISSN : 2197-5612
+Series Title : Graduate Texts in Mathematics
+Volume Number : 267
+DOI URL : http://doi.org/10.1007/978-1-4614-7116-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7116-5
+Subject Classification : Mathematics; Mathematical Physics; Mathematical Applications in the Physical Sciences; Quantum Physics; Functional Analysis; Topological Groups, Lie Groups; Mathematical Methods in Physics
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Brownian Motion, Martingales, and Stochastic Calculus 
+Author : Jean-François Le Gall
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-31088-6
+Electronic ISBN : 978-3-319-31089-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0072-5285
+Series Electronic ISSN : 2197-5612
+Series Title : Graduate Texts in Mathematics
+Volume Number : 274
+DOI URL : http://doi.org/10.1007/978-3-319-31089-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-31089-3
+Subject Classification : Mathematics; Probability Theory and Stochastic Processes; Quantitative Finance; Measure and Integration; Mathematical Modeling and Industrial Mathematics; Systems Theory, Control
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Design and Analysis of Experiments
+Book Title : Applied Multivariate Statistical Analysis
+Author : Wolfgang Karl Härdle, Léopold Simar
+Edition : 4th ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-662-45170-0
+Electronic ISBN : 978-3-662-45171-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-45171-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-45171-7
+Subject Classification : Statistics; Statistics for Business/Economics/Mathematical Finance/Insurance; Quantitative Finance; Economic Theory/Quantitative Economics/Mathematical Methods; Statistical Theory and Methods
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Probability
+Author : Jim Pitman
+Edition : 1993
+Product Type : Undergraduate textbook
+Copyright Year : 1993.0
+Copyright Holder : Springer Science+Business Media LLC
+Print ISBN : 978-0-387-97974-8
+Electronic ISBN : 978-1-4612-4374-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4612-4374-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4612-4374-8
+Subject Classification : Mathematics; Probability Theory and Stochastic Processes; Statistical Theory and Methods
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Modeling Life
+Author : Alan Garfinkel, Jane Shevtsov, Yina Guo
+Edition : 1st ed. 2017
+Product Type : Undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-59730-0
+Electronic ISBN : 978-3-319-59731-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-59731-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-59731-7
+Subject Classification : Mathematics; Mathematical and Computational Biology; Mathematical Modeling and Industrial Mathematics; Ordinary Differential Equations
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : A Primer on Scientific Programming with Python
+Author : Hans Petter Langtangen
+Edition : 5th ed. 2016
+Product Type : Undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer-Verlag Berlin Heidelberg
+Print ISBN : 978-3-662-49886-6
+Electronic ISBN : 978-3-662-49887-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1611-0994
+Series Electronic ISSN : 2197-179X
+Series Title : Texts in Computational Science and Engineering
+Volume Number : 6
+DOI URL : http://doi.org/10.1007/978-3-662-49887-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-49887-3
+Subject Classification : Mathematics; Computational Science and Engineering; Programming Techniques; Mathematics of Computing; Numerical and Computational Physics, Simulation
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : Statistical Analysis and Data Display
+Author : Richard M. Heiberger, Burt Holland
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4939-2121-8
+Electronic ISBN : 978-1-4939-2122-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-2122-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2122-5
+Subject Classification : Statistics; Statistical Theory and Methods; Statistics and Computing/Statistics Programs; Statistics for Engineering, Physics, Computer Science, Chemistry and Earth Sciences
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Elementary Analysis
+Author : Kenneth A. Ross
+Edition : 2nd ed. 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-6270-5
+Electronic ISBN : 978-1-4614-6271-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-6271-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6271-2
+Subject Classification : Mathematics; Analysis; Real Functions
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Probability Theory
+Author : Alexandr A. Borovkov
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-4471-5200-2
+Electronic ISBN : 978-1-4471-5201-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-5939
+Series Electronic ISSN : 2191-6675
+Series Title : Universitext
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-5201-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-5201-9
+Subject Classification : Mathematics; Probability Theory and Stochastic Processes
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Statistics and Data Analysis for Financial Engineering
+Author : David Ruppert, David S. Matteson
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4939-2613-8
+Electronic ISBN : 978-1-4939-2614-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-2614-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2614-5
+Subject Classification : Statistics; Statistics for Business/Economics/Mathematical Finance/Insurance; Quantitative Finance; Statistical Theory and Methods; Finance, general
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Differential Equations and Their Applications
+Author : Martin Braun
+Edition : 4th ed. 1993
+Product Type : Undergraduate textbook
+Copyright Year : 1993.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-0-387-97894-9
+Electronic ISBN : 978-1-4612-4360-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0939-2475
+Series Electronic ISSN : 2196-9949
+Series Title : Texts in Applied Mathematics
+Volume Number : 11
+DOI URL : http://doi.org/10.1007/978-1-4612-4360-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4612-4360-1
+Subject Classification : Mathematics; Analysis
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Introduction to Partial Differential Equations
+Author : David Borthwick
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-48934-6
+Electronic ISBN : 978-3-319-48936-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-5939
+Series Electronic ISSN : 2191-6675
+Series Title : Universitext
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-48936-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0
+Subject Classification : Mathematics; Partial Differential Equations; Mathematical Applications in the Physical Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Partial Differential Equations
+Author : Jürgen Jost
+Edition : 3rd ed. 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media LLC
+Print ISBN : 978-1-4614-4808-2
+Electronic ISBN : 978-1-4614-4809-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0072-5285
+Series Electronic ISSN : 2197-5612
+Series Title : Graduate Texts in Mathematics
+Volume Number : 214
+DOI URL : http://doi.org/10.1007/978-1-4614-4809-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-4809-9
+Subject Classification : Mathematics; Partial Differential Equations; Theoretical, Mathematical and Computational Physics
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Bayesian and Frequentist Regression Methods
+Author : Jon Wakefield
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4419-0924-4
+Electronic ISBN : 978-1-4419-0925-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-7397
+Series Electronic ISSN : 2197-568X
+Series Title : Springer Series in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4419-0925-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-0925-1
+Subject Classification : Statistics; Statistical Theory and Methods; Statistics, general
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Introduction to Time Series and Forecasting
+Author : Peter J. Brockwell, Richard A. Davis
+Edition : 3rd ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-29852-8
+Electronic ISBN : 978-3-319-29854-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-29854-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-29854-2
+Subject Classification : Statistics; Statistical Theory and Methods; Statistics for Business/Economics/Mathematical Finance/Insurance; Econometrics; Statistics for Engineering, Physics, Computer Science, Chemistry and Earth Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Introduction to Smooth Manifolds
+Author : John Lee
+Edition : 2nd ed. 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4419-9981-8
+Electronic ISBN : 978-1-4419-9982-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0072-5285
+Series Electronic ISSN : 2197-5612
+Series Title : Graduate Texts in Mathematics
+Volume Number : 218
+DOI URL : http://doi.org/10.1007/978-1-4419-9982-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-9982-5
+Subject Classification : Mathematics; Differential Geometry
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Multivariate Calculus and Geometry
+Author : Seán Dineen
+Edition : 3rd ed. 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-4471-6418-0
+Electronic ISBN : 978-1-4471-6419-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1615-2085
+Series Electronic ISSN : 2197-4144
+Series Title : Springer Undergraduate Mathematics Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4471-6419-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6419-7
+Subject Classification : Mathematics; Mathematics, general
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Representation Theory
+Author : William Fulton, Joe Harris
+Edition : 2004
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2004.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-0-387-97495-8
+Electronic ISBN : 978-1-4612-0979-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0072-5285
+Series Electronic ISSN : 2197-5612
+Series Title : Graduate Texts in Mathematics
+Volume Number : 129
+DOI URL : http://doi.org/10.1007/978-1-4612-0979-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4612-0979-9
+Subject Classification : Mathematics; Topological Groups, Lie Groups
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Linear Algebra Done Right
+Author : Sheldon Axler
+Edition : 3rd ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing
+Print ISBN : 978-3-319-11079-0
+Electronic ISBN : 978-3-319-11080-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-11080-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-11080-6
+Subject Classification : Mathematics; Linear and Multilinear Algebras, Matrix Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Linear Algebra
+Author : Jörg Liesen, Volker Mehrmann
+Edition : 1st ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-24344-3
+Electronic ISBN : 978-3-319-24346-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1615-2085
+Series Electronic ISSN : 2197-4144
+Series Title : Springer Undergraduate Mathematics Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-24346-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-24346-7
+Subject Classification : Mathematics; Linear and Multilinear Algebras, Matrix Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Understanding Analysis
+Author : Stephen Abbott
+Edition : 2nd ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4939-2711-1
+Electronic ISBN : 978-1-4939-2712-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-2712-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2712-8
+Subject Classification : Mathematics; Analysis
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Ordinary Differential Equations
+Author : William A. Adkins, Mark G. Davidson
+Edition : 2012
+Product Type : Undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-3617-1
+Electronic ISBN : 978-1-4614-3618-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-3618-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-3618-8
+Subject Classification : Mathematics; Ordinary Differential Equations
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Understanding Statistics Using R
+Author : Randall Schumacker, Sara Tomek
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-6226-2
+Electronic ISBN : 978-1-4614-6227-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-6227-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6227-9
+Subject Classification : Statistics; Statistics and Computing/Statistics Programs; Statistics for Social Science, Behavorial Science, Education, Public Policy, and Law; Statistics, general
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Survival Analysis
+Author : David G. Kleinbaum, Mitchel Klein
+Edition : 3rd ed. 2012
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2012.0
+Copyright Holder : Springer Science+Business Media, LLC
+Print ISBN : 978-1-4419-6645-2
+Electronic ISBN : 978-1-4419-6646-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-8776
+Series Electronic ISSN : 2197-5671
+Series Title : Statistics for Biology and Health
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4419-6646-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-6646-9
+Subject Classification : Statistics; Statistics for Life Sciences, Medicine, Health Sciences; Epidemiology
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : An Introduction to Statistical Learning
+Author : Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-7137-0
+Electronic ISBN : 978-1-4614-7138-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 103
+DOI URL : http://doi.org/10.1007/978-1-4614-7138-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7138-7
+Subject Classification : Statistics; Statistical Theory and Methods; Statistics and Computing/Statistics Programs; Statistics, general
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Statistical Learning from a Regression Perspective
+Author : Richard A. Berk
+Edition : 2nd ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-44047-7
+Electronic ISBN : 978-3-319-44048-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-44048-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-44048-4
+Subject Classification : Statistics; Statistical Theory and Methods; Probability Theory and Stochastic Processes; Statistics for Social Science, Behavorial Science, Education, Public Policy, and Law; Public Health; Psychological Methods/Evaluation; Methodology of the Social Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Applied Partial Differential Equations
+Author : J. David Logan
+Edition : 3rd ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-12492-6
+Electronic ISBN : 978-3-319-12493-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-12493-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-12493-3
+Subject Classification : Mathematics; Partial Differential Equations; Mathematical Methods in Physics; Community & Population Ecology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Regression Modeling Strategies
+Author : Frank E. Harrell , Jr.
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-19424-0
+Electronic ISBN : 978-3-319-19425-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-7397
+Series Electronic ISSN : 2197-568X
+Series Title : Springer Series in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-19425-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-19425-7
+Subject Classification : Statistics; Statistical Theory and Methods; Statistics for Life Sciences, Medicine, Health Sciences; Statistics and Computing/Statistics Programs
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Applied Quantitative Finance
+Author : Wolfgang Karl Härdle, Cathy Yi-Hsuan Chen, Ludger Overbeck
+Edition : 3rd ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer-Verlag GmbH Germany
+Print ISBN : 978-3-662-54485-3
+Electronic ISBN : 978-3-662-54486-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-8784
+Series Electronic ISSN : 2197-1706
+Series Title : Statistics and Computing
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-54486-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-54486-0
+Subject Classification : Statistics; Statistics for Business/Economics/Mathematical Finance/Insurance; Quantitative Finance; Risk Management; Business Finance
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : A Modern Introduction to Probability and Statistics
+Author : F.M. Dekking, C. Kraaikamp, H.P. Lopuhaä, L.E. Meester
+Edition : 2005
+Product Type : Undergraduate textbook
+Copyright Year : 2005.0
+Copyright Holder : Springer-Verlag London
+Print ISBN : 978-1-85233-896-1
+Electronic ISBN : 978-1-84628-168-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/1-84628-168-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-84628-168-6
+Subject Classification : Mathematics; Probability Theory and Stochastic Processes; Statistics for Engineering, Physics, Computer Science, Chemistry and Earth Sciences; Mathematical and Computational Engineering
+Publisher : Springer London
+Imprint : Springer
+
+Book Title : Complex Analysis
+Author : Joseph Bak, Donald J. Newman
+Edition : 3rd ed. 2010
+Product Type : Undergraduate textbook
+Copyright Year : 2010.0
+Copyright Holder : Springer Science+Business Media, LLC
+Print ISBN : 978-1-4419-7287-3
+Electronic ISBN : 978-1-4419-7288-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4419-7288-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-7288-0
+Subject Classification : Mathematics; Analysis
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Calculus With Applications
+Author : Peter D. Lax, Maria Shea Terrell
+Edition : 2nd ed. 2014
+Product Type : Undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-7945-1
+Electronic ISBN : 978-1-4614-7946-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-7946-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7946-8
+Subject Classification : Mathematics; Calculus
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Fundamentals of Clinical Trials
+Author : Lawrence M. Friedman, Curt D. Furberg, David L. DeMets, David M. Reboussin, Christopher B. Granger
+Edition : 5th ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-18538-5
+Electronic ISBN : 978-3-319-18539-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-18539-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-18539-2
+Subject Classification : Statistics; Statistics for Life Sciences, Medicine, Health Sciences; Public Health; Epidemiology; Cancer Research; Oncology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Applied Predictive Modeling
+Author : Max Kuhn, Kjell Johnson
+Edition : 2013
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-6848-6
+Electronic ISBN : 978-1-4614-6849-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-6849-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6849-3
+Subject Classification : Statistics; Statistics for Life Sciences, Medicine, Health Sciences; Statistics and Computing/Statistics Programs; Statistics, general
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Real Analysis
+Author : Miklós Laczkovich, Vera T. Sós
+Edition : 1st ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer New York
+Print ISBN : 978-1-4939-2765-4
+Electronic ISBN : 978-1-4939-2766-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-2766-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2766-1
+Subject Classification : Mathematics; Analysis
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Bayesian Essentials with R
+Author : Jean-Michel Marin, Christian P. Robert
+Edition : 2nd ed. 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-8686-2
+Electronic ISBN : 978-1-4614-8687-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1431-875X
+Series Electronic ISSN : 2197-4136
+Series Title : Springer Texts in Statistics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-8687-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-8687-9
+Subject Classification : Statistics; Statistics and Computing/Statistics Programs; Statistical Theory and Methods
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Abstract Algebra
+Author : Gregory T. Lee
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-77648-4
+Electronic ISBN : 978-3-319-77649-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 1615-2085
+Series Electronic ISSN : 2197-4144
+Series Title : Springer Undergraduate Mathematics Series
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-77649-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-77649-1
+Subject Classification : Mathematics; Group Theory and Generalizations; Associative Rings and Algebras; Field Theory and Polynomials
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Applied Linear Algebra
+Author : Peter J. Olver, Chehrzad Shakiban
+Edition : 2nd ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-319-91040-6
+Electronic ISBN : 978-3-319-91041-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-91041-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-91041-3
+Subject Classification : Mathematics; Linear and Multilinear Algebras, Matrix Theory; Mathematical Applications in the Physical Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Proofs from THE BOOK
+Author : Martin Aigner, Günter M. Ziegler
+Edition : 6th ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer-Verlag GmbH Germany, part of Springer Nature
+Print ISBN : 978-3-662-57264-1
+Electronic ISBN : 978-3-662-57265-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-57265-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-57265-8
+Subject Classification : Mathematics; Number Theory; Geometry; Analysis; Combinatorics; Graph Theory; Mathematics of Computing
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
+Book Title : A Pythagorean Introduction to Number Theory
+Author : Ramin Takloo-Bighash
+Edition : 1st ed. 2018
+Product Type : Undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Switzerland AG
+Print ISBN : 978-3-030-02603-5
+Electronic ISBN : 978-3-030-02604-2
+Language : EN
+Language Collection : English/International
+eBook Package : 11649
+English Package Name : Mathematics and Statistics
+German Package Name : 
+Series Print ISSN : 0172-6056
+Series Electronic ISSN : 2197-5604
+Series Title : Undergraduate Texts in Mathematics
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-030-02604-2
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-030-02604-2
+Subject Classification : Mathematics; Number Theory
+Publisher : Springer International Publishing
+Imprint : Springer
+
