@@ -1,0 +1,644 @@
+Book Title : Developmental Neurobiology
+Author : Mahendra S. Rao, Marcus Jacobson
+Edition : 4th ed. 2005
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2005.0
+Copyright Holder : Springer-Verlag US
+Print ISBN : 978-0-306-48330-1
+Electronic ISBN : 978-0-387-28117-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/0-387-28117-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-28117-9
+Subject Classification : Biomedicine; Neurosciences; Anatomy; Neurobiology
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Fundamentals of Biomechanics
+Author : Duane Knudson
+Edition : 2nd ed. 2007
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2007.0
+Copyright Holder : Springer-Verlag US
+Print ISBN : 978-0-387-49311-4
+Electronic ISBN : 978-0-387-49312-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-49312-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-49312-1
+Subject Classification : Biomedicine; Human Physiology; Biological and Medical Physics, Biophysics; Biomedical Engineering; Sports Medicine
+Publisher : Springer US
+Imprint : Springer
+
+Book Title : Plant Physiological Ecology
+Author : Hans Lambers, F Stuart Chapin III, Thijs L. Pons
+Edition : 2nd ed. 2008
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2008.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-0-387-78340-6
+Electronic ISBN : 978-0-387-78341-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-0-387-78341-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-0-387-78341-3
+Subject Classification : Life Sciences; Plant Ecology; Plant Physiology; Plant Sciences; Ecology; Plant Anatomy/Development; Ecosystems
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : The Joy of Science
+Author : Richard A. Lockshin
+Edition : 2007
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2007.0
+Copyright Holder : Springer Science+Business Media B.V.
+Print ISBN : 978-1-4020-6098-4
+Electronic ISBN : 978-1-4020-6099-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4020-6099-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4020-6099-1
+Subject Classification : Biomedicine; Biomedicine, general; Evolutionary Biology; Microbial Genetics and Genomics; Popular Science in Nature and Environment
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Metabolism of Human Diseases
+Author : Eckhard Lammert, Martin Zeeb
+Edition : 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer-Verlag Wien
+Print ISBN : 978-3-7091-0714-0
+Electronic ISBN : 978-3-7091-0715-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-7091-0715-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-7091-0715-7
+Subject Classification : Biomedicine; Human Physiology; Metabolic Diseases; Biochemistry, general; Metabolomics
+Publisher : Springer Vienna
+Imprint : Springer
+
+Book Title : Integrative Human Biochemistry
+Author : Andrea T. da Poian, Miguel A. R. B. Castanho
+Edition : 1st ed. 2015
+Product Type : Undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4939-3057-9
+Electronic ISBN : 978-1-4939-3058-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-3058-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-3058-6
+Subject Classification : Biomedicine; Human Physiology; Medical Biochemistry; Animal Biochemistry; Medicinal Chemistry
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Human Chromosomes
+Author : Orlando J. Miller, Eeva Therman
+Edition : 4th ed. 2001
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2001.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-0-387-95031-0
+Electronic ISBN : 978-1-4613-0139-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4613-0139-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4613-0139-4
+Subject Classification : Biomedicine; Human Genetics; Anatomy; Cell Biology; Life Sciences, general; Molecular Medicine
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Phylogenomics
+Author : Christoph Bleidorn
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-54062-7
+Electronic ISBN : 978-3-319-54064-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-54064-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-54064-1
+Subject Classification : Life Sciences; Evolutionary Biology; Human Genetics; Bioinformatics; Microbial Genetics and Genomics; Animal Genetics and Genomics
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Human Chromosomes
+Author : Orlando J. Miller, Eeva Therman
+Edition : 4th ed. 2001
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2001.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-0-387-95031-0
+Electronic ISBN : 978-1-4613-0139-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4613-0139-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4613-0139-4
+Subject Classification : Biomedicine; Human Genetics; Anatomy; Cell Biology; Life Sciences, general; Molecular Medicine
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Principles of Terrestrial Ecosystem Ecology
+Author : F Stuart Chapin III, Pamela A. Matson, Peter Vitousek
+Edition : 2nd ed. 2012
+Product Type : Undergraduate textbook
+Copyright Year : 2011.0
+Copyright Holder : Springer Science+Business Media, LLC
+Print ISBN : 978-1-4419-9503-2
+Electronic ISBN : 978-1-4419-9504-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4419-9504-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4419-9504-9
+Subject Classification : Life Sciences; Ecology; Terrestial Ecology; Biodiversity; Ecosystems; Plant Ecology
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Learning Landscape Ecology
+Author : Sarah E. Gergel, Monica G. Turner
+Edition : 2nd ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer-Verlag New York
+Print ISBN : 978-1-4939-6372-0
+Electronic ISBN : 978-1-4939-6374-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-6374-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-6374-4
+Subject Classification : Life Sciences; Landscape Ecology; Landscape/Regional and Urban Planning; Terrestial Ecology; Monitoring/Environmental Analysis; Theoretical Ecology/Statistics
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Epidemiological Research: Terms and Concepts
+Author : O. S. Miettinen
+Edition : 2011
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2011.0
+Copyright Holder : Springer Netherlands
+Print ISBN : 978-94-007-1170-9
+Electronic ISBN : 978-94-007-1171-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-007-1171-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-007-1171-6
+Subject Classification : Biomedicine; Biomedicine, general; Epidemiology; Public Health; Medicine/Public Health, general; Biometrics; Biostatistics
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Statistical Analysis of Clinical Data on a Pocket Calculator
+Author : Ton J. Cleophas, Aeilko H. Zwinderman
+Edition : 2011
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2011.0
+Copyright Holder : Springer Science+Business Media B.V.
+Print ISBN : 978-94-007-1210-2
+Electronic ISBN : 978-94-007-1211-9
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-007-1211-9
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-007-1211-9
+Subject Classification : Biomedicine; Biomedicine, general; Chemistry/Food Science, general; Pharmacy; Medicine/Public Health, general; Computer Science, general; Life Sciences, general
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : Clinical Data Analysis on a Pocket Calculator
+Author : Ton J. Cleophas, Aeilko H. Zwinderman
+Edition : 2nd ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-27103-3
+Electronic ISBN : 978-3-319-27104-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-27104-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-27104-0
+Subject Classification : Biomedicine; Biomedicine, general; Entomology; Pharmacy; Statistics for Life Sciences, Medicine, Health Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Essentials of Cerebellum and Cerebellar Disorders
+Author : Donna L. Gruol, Noriyuki Koibuchi, Mario Manto, Marco Molinari, Jeremy D. Schmahmann, Ying Shen
+Edition : 1st ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-24549-2
+Electronic ISBN : 978-3-319-24551-5
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-24551-5
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-24551-5
+Subject Classification : Biomedicine; Gene Function; Neurosciences; Behavioral Sciences; Neurology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Handbook of Cardiac Anatomy, Physiology, and Devices
+Author : Paul A. Iaizzo
+Edition : 3rd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-19463-9
+Electronic ISBN : 978-3-319-19464-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-19464-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-19464-6
+Subject Classification : Biomedicine; Human Physiology; Cardiology; Biomedical Engineering; Angiology; Pathology; Cardiac Surgery
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : The Gastrointestinal System
+Author : Po Sing Leung
+Edition : 2014
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2014.0
+Copyright Holder : Springer Science+Business Media Dordrecht
+Print ISBN : 978-94-017-8770-3
+Electronic ISBN : 978-94-017-8771-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-94-017-8771-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-94-017-8771-0
+Subject Classification : Biomedicine; Human Physiology; Gastroenterology
+Publisher : Springer Netherlands
+Imprint : Springer
+
+Book Title : SPSS for Starters and 2nd Levelers
+Author : Ton J. Cleophas, Aeilko H. Zwinderman
+Edition : 2nd ed. 2016
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2016.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-20599-1
+Electronic ISBN : 978-3-319-20600-4
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-20600-4
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-20600-4
+Subject Classification : Biomedicine; Biomedicine, general; Computer Applications; Biometrics; Statistical Theory and Methods; Statistics and Computing/Statistics Programs
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Machine Learning in Medicine - a Complete Overview
+Author : Ton J. Cleophas, Aeilko H. Zwinderman
+Edition : 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer International Publishing Switzerland
+Print ISBN : 978-3-319-15194-6
+Electronic ISBN : 978-3-319-15195-3
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-15195-3
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-15195-3
+Subject Classification : Biomedicine; Biomedicine, general; Medicine/Public Health, general; Statistics, general; Science, Humanities and Social Sciences, multidisciplinary
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Pharmaceutical Biotechnology
+Author : Daan J. A. Crommelin, Robert D. Sindelar, Bernd Meibohm
+Edition : 4th ed. 2013
+Product Type : Undergraduate textbook
+Copyright Year : 2013.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4614-6485-3
+Electronic ISBN : 978-1-4614-6486-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4614-6486-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6486-0
+Subject Classification : Biomedicine; Pharmaceutical Sciences/Technology; Biomedicine, general
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : An Introduction to Biomechanics
+Author : Jay D. Humphrey, Sherry L. O’Rourke
+Edition : 2nd ed. 2015
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2015.0
+Copyright Holder : Springer Science+Business Media New York
+Print ISBN : 978-1-4939-2622-0
+Electronic ISBN : 978-1-4939-2623-7
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-2623-7
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2623-7
+Subject Classification : Biomedicine; Human Physiology; Biomedical Engineering; Theoretical and Applied Mechanics; Biochemical Engineering
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Bioinformatics for Evolutionary Biologists
+Author : Bernhard Haubold, Angelika Börsch-Haubold
+Edition : 1st ed. 2017
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2017.0
+Copyright Holder : Springer International Publishing AG
+Print ISBN : 978-3-319-67394-3
+Electronic ISBN : 978-3-319-67395-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-67395-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-67395-0
+Subject Classification : Life Sciences; Bioinformatics; Evolutionary Biology; Computational Biology/Bioinformatics; Computer Appl. in Life Sciences
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Lessons on Synthetic Bioarchitectures
+Author : Eva-Kathrin Ehmoser-Sinner, Cherng-Wen Darren Tan
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-73122-3
+Electronic ISBN : 978-3-319-73123-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 2509-6125
+Series Electronic ISSN : 2509-6133
+Series Title : Learning Materials in Biosciences
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-73123-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-73123-0
+Subject Classification : Biomedicine; Biomedical Engineering/Biotechnology; Biomedical Engineering; Systems Biology; Biomaterials; Biotechnology
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : Applied Bioinformatics
+Author : Paul M. Selzer, Richard J. Marhöfer, Oliver Koch
+Edition : 2nd ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer International Publishing AG, part of Springer Nature
+Print ISBN : 978-3-319-68299-0
+Electronic ISBN : 978-3-319-68301-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-319-68301-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-319-68301-0
+Subject Classification : Life Sciences; Bioinformatics; Computer Appl. in Life Sciences; Computational Biology/Bioinformatics; Computer Applications in Chemistry
+Publisher : Springer International Publishing
+Imprint : Springer
+
+Book Title : ENZYMES: Catalysis, Kinetics and Mechanisms
+Author : N.S. Punekar
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Singapore Pte Ltd.
+Print ISBN : 978-981-13-0784-3
+Electronic ISBN : 978-981-13-0785-0
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-981-13-0785-0
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-981-13-0785-0
+Subject Classification : Life Sciences; Enzymology; Protein-Ligand Interactions; Biomedical Engineering/Biotechnology; Applied Microbiology; Protein Structure
+Publisher : Springer Singapore
+Imprint : Springer
+
+Book Title : Plant Physiology, Development and Metabolism
+Author : Satish C Bhatla, Manju A. Lal
+Edition : 1st ed. 2018
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2018.0
+Copyright Holder : Springer Nature Singapore Pte Ltd.
+Print ISBN : 978-981-13-2022-4
+Electronic ISBN : 978-981-13-2023-1
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-981-13-2023-1
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-981-13-2023-1
+Subject Classification : Life Sciences; Plant Physiology; Plant Anatomy/Development; Plant Ecology; Plant Breeding/Biotechnology; Plant Genetics and Genomics
+Publisher : Springer Singapore
+Imprint : Springer
+
+Book Title : Food Fraud Prevention
+Author : John W. Spink
+Edition : 1st ed. 2019
+Product Type : Monograph
+Copyright Year : 2019.0
+Copyright Holder : Springer Science+Business Media, LLC, part of Springer Nature
+Print ISBN : 978-1-4939-9619-3
+Electronic ISBN : 978-1-4939-9621-6
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : Food Microbiology and Food Safety
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-1-4939-9621-6
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-1-4939-9621-6
+Subject Classification : Life Sciences; Food Microbiology; Food Science; Criminal Law; Medicine/Public Health, general
+Publisher : Springer New York
+Imprint : Springer
+
+Book Title : Plant Ecology
+Author : Ernst-Detlef Schulze, Erwin Beck, Nina Buchmann, Stephan Clemens, Klaus Müller-Hohenstein, Michael Scherer-Lorenzen
+Edition : 2nd ed. 2019
+Product Type : Graduate/advanced undergraduate textbook
+Copyright Year : 2019.0
+Copyright Holder : Springer-Verlag GmbH Germany, part of Springer Nature
+Print ISBN : 978-3-662-56231-4
+Electronic ISBN : 978-3-662-56233-8
+Language : EN
+Language Collection : English/International
+eBook Package : 11642
+English Package Name : Biomedical and Life Sciences
+German Package Name : 
+Series Print ISSN : 
+Series Electronic ISSN : 
+Series Title : 
+Volume Number : 
+DOI URL : http://doi.org/10.1007/978-3-662-56233-8
+OpenURL : http://link.springer.com/openurl?genre=book&isbn=978-3-662-56233-8
+Subject Classification : Life Sciences; Plant Ecology; Plant Physiology; Plant Biochemistry; Plant Genetics and Genomics; Climate Change
+Publisher : Springer Berlin Heidelberg
+Imprint : Springer
+
